@@ -53,7 +53,7 @@ body {
 /* --- Home Hero --- */
 .home-hero {
     min-height: 50vh;
-    background: linear-gradient(135deg, #0A1628 0%, #1a2744 50%, #0A1628 100%);
+    background: url('../images/Greek_Kitchen_Hero_Image.jpg') center / cover no-repeat;
 }
 
 .home-hero::after {
@@ -62,10 +62,6 @@ body {
     inset: 0;
     background: linear-gradient(to bottom, rgba(10, 22, 40, 0.75) 0%, rgba(10, 22, 40, 0.6) 100%);
 }
-
-/* NOTE: Once you add a hero image, update .home-hero to:
-   background: url('../images/your-hero-image.jpg') center / cover no-repeat;
-*/
 
 /* --- Card Lift Effect --- */
 .card-lift {
@@ -277,6 +273,19 @@ body {
 
 .whatsapp-share-btn:hover { background: #1DA851; }
 .whatsapp-share-btn i { font-size: 1.25rem; }
+
+/* --- Focus Visible (Accessibility) --- */
+.category-pill:focus-visible,
+.recipe-card:focus-visible,
+button:focus-visible,
+a:focus-visible {
+    outline: 2px solid var(--gr-primary);
+    outline-offset: 2px;
+}
+
+.glass-search input:focus-visible {
+    outline: none;
+}
 
 /* --- Gold Border (RTL: right border) --- */
 .primary-border-right {

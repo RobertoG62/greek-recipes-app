@@ -4,7 +4,7 @@
 A beautiful, mobile-first Hebrew recipe app showcasing authentic Greek cuisine. Zero build step, deployable to GitHub Pages.
 
 ## Features (V1)
-- **Recipe Catalog**: 10 authentic Greek recipes across 5 categories
+- **Recipe Catalog**: 50 authentic Greek recipes across 5 categories
 - **Search**: Real-time debounced search (200ms) across titles, descriptions, ingredients, and tags
 - **Category Filters**: Pill-style filter buttons with icons, dynamically generated from data
 - **Recipe Detail**: Full-page view with hero image, meta info, structured ingredients, numbered instructions

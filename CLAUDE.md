@@ -24,11 +24,34 @@ Load order: `data.js → ui.js → app.js` (each depends on the previous).
 
 ### Key Patterns
 - **Views**: Home and detail are `<div>` sections toggled via `hidden` class (no `<template>` cloning)
-- **Category filters**: Dynamically built from recipe data, rendered as pill buttons
+- **Category filters**: Dynamically built from recipe data, rendered as pill buttons. "הכל" (All) is a special category always placed first — it matches all recipes.
 - **Recipe IDs**: String-based kebab-case (e.g., `moussaka`, `souvlaki`)
 - **Ingredient schema**: `{ name, quantity, unit }` — structured, not plain strings
-- **WhatsApp sharing**: Builds shopping list URL from ingredient data
+- **WhatsApp sharing**: Builds shopping list URL from ingredient data using `https://wa.me/?text=...`
 - **Image loading**: Lazy-loaded with fade-in on load, placeholder icon on error
+- **Search**: Case-insensitive multi-field OR match against title, description, ingredient names, and tags. Category filter applies as AND before search.
+
+### Key DOM Elements
+| ID | Role |
+|----|------|
+| `#home-view` / `#recipe-view` | Two main views, toggled via `.hidden` |
+| `#search-input` | Debounced search (200ms), triggers `filterRecipes` |
+| `#category-filters` | Container for dynamically rendered pill buttons |
+| `#recipe-grid` | CSS Grid container for recipe cards |
+| `#result-count` | "X מתכונים מתוך Y" counter |
+| `#empty-state` / `#loading-state` | Conditional UI states |
+
+## Data Files
+
+- **`data/recipes.json`** — Main recipe data (10 recipes), loaded at runtime.
+- **`data/batch1.json`**, **`batch2.json`**, **`batch3.json`** — 50+ additional recipes (untracked). These follow the same schema but are **not yet integrated** into the main file.
+
+### Adding New Recipes
+1. Add recipe object to `data/recipes.json` following the schema below
+2. Use kebab-case `id` matching the recipe name (e.g., `galaktoboureko`)
+3. Set `image` to `images/{PascalCaseName}.jpg` — images are **not in the repo** and will show a placeholder icon on error
+4. Category must be one of the 5 existing Hebrew category strings (see table below)
+5. If adding a new category, also add its icon mapping in `CATEGORY_ICONS` inside `js/ui.js`
 
 ## Design Tokens
 | Token | CSS Variable | Tailwind Class | Value |
@@ -46,10 +69,21 @@ Load order: `data.js → ui.js → app.js` (each depends on the previous).
 CSS variables in `css/style.css :root`. Tailwind colors in `index.html <script>`. Both must stay in sync.
 
 ## Tech Stack
-- **Styling**: Tailwind CSS CDN + custom CSS (glassmorphism, card-lift, category pills)
+- **Styling**: Tailwind CSS v4 CDN + custom CSS (glassmorphism, card-lift, category pills)
 - **Fonts**: Heebo (Hebrew body), Playfair Display (headings)
 - **Icons**: Font Awesome 6.5 CDN
 - **Direction**: RTL Hebrew (`dir="rtl"`, `lang="he"`)
+
+## Custom CSS Classes
+| Class | Purpose |
+|-------|---------|
+| `.glass` / `.glass-search` | Frosted glass effect (`backdrop-filter: blur`) |
+| `.header-glass` | Applied to header on scroll > 50px |
+| `.card-lift` | Hover: `translateY(-6px)` with shadow transition |
+| `.category-pill` | Filter buttons (active state = blue bg, white text) |
+| `.badge-easy` / `.badge-medium` / `.badge-hard` | Difficulty color badges |
+| `.view-fade-in` | 0.3s fade-in animation for view transitions |
+| `.primary-border-right` | RTL blue accent border for ingredient section |
 
 ## Recipe Categories
 | Hebrew | English | Icon |
