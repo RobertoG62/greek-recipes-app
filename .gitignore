@@ -13,3 +13,5 @@ desktop.ini
 npm-debug.log*
 dist/
 build/
+*.txt
+.claude/
