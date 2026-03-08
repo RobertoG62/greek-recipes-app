@@ -287,7 +287,80 @@ a:focus-visible {
     outline: none;
 }
 
-/* --- Gold Border (RTL: right border) --- */
-.primary-border-right {
+/* --- Language-Specific Fonts --- */
+html[lang="he"] body {
+    font-family: 'Heebo', sans-serif;
+}
+
+html[lang="en"] body {
+    font-family: 'Inter', sans-serif;
+}
+
+html[lang="en"] .font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+/* --- Language Switcher --- */
+.language-switcher {
+    display: flex;
+    gap: 0;
+    border: 2px solid var(--gr-primary);
+    border-radius: 8px;
+    overflow: hidden;
+    background: white;
+}
+
+.lang-btn {
+    padding: 6px 14px;
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--gr-primary);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    letter-spacing: 0.5px;
+}
+
+.lang-btn:hover {
+    background: rgba(13, 71, 161, 0.1);
+}
+
+.lang-btn.active {
+    background: var(--gr-primary);
+    color: white;
+}
+
+.lang-btn:not(:last-child) {
+    border-right: 1px solid rgba(13, 71, 161, 0.3);
+}
+
+/* --- Gold Border (RTL: right border, LTR: left border) --- */
+html[dir="rtl"] .primary-border-right {
     border-right: 3px solid var(--gr-primary);
+    border-left: none;
+}
+
+html[dir="ltr"] .primary-border-right {
+    border-left: 3px solid var(--gr-primary);
+    border-right: none;
+}
+
+/* --- RTL/LTR Meta Item Borders --- */
+html[dir="rtl"] .meta-item:not(:last-child) {
+    border-left: 1px solid var(--gr-border);
+    border-right: none;
+}
+
+html[dir="ltr"] .meta-item:not(:last-child) {
+    border-right: 1px solid var(--gr-border);
+    border-left: none;
+}
+
+/* --- Responsive adjustments for language switcher --- */
+@media (max-width: 640px) {
+    .lang-btn {
+        padding: 5px 10px;
+        font-size: 0.75rem;
+    }
 }

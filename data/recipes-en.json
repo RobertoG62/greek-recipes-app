@@ -1,0 +1,4714 @@
+{
+    "recipes": [
+        {
+            "id": "moussaka",
+            "title": "Μουσακάς",
+            "originalName": "Μουσακάς",
+            "description": "Iconic layered casserole of eggplants, ground lamb, and creamy béchamel sauce — the flagship dish of Greek cuisine.",
+            "category": "Main Courses",
+            "image": "images/Moussaka_Classic.jpg",
+            "prepTime": 30,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "large eggplants, sliced lengthwise",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "ground lamb",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dry red wine",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "butter",
+                    "quantity": "50",
+                    "unit": "grams"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "whole milk",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "grated nutmeg",
+                    "quantity": "",
+                    "unit": "pinch"
+                }
+            ],
+            "instructions": [
+                "Slice eggplants into 1cm slices, salt and let sit for 30 minutes to remove bitterness. Pat dry and fry in olive oil until golden.",
+                "Fry onion in olive oil until translucent, add garlic and lamb and cook until meat browns.",
+                "Add tomato paste, wine, cinnamon, salt and pepper. Cook 15 minutes on low heat until sauce thickens.",
+                "Make béchamel: melt butter, mix in flour, and gradually add milk while stirring. Season with nutmeg and add egg.",
+                "Arrange in baking dish in layers — eggplant, meat, eggplant — and pour béchamel on top. Bake at 180°C for about 45 minutes until golden."
+            ],
+            "tags": [
+                "traditional",
+                "oven",
+                "lamb",
+                "eggplant",
+                "béchamel"
+            ]
+        },
+        {
+            "id": "souvlaki",
+            "title": "Σουβλάκι Κοτόπουλο",
+            "originalName": "Σουβλάκι Κοτόπουλο",
+            "description": "Juicy chicken skewers marinated in lemon and oregano, served in warm pita with tzatziki and vegetables.",
+            "category": "Main Courses",
+            "image": "images/Chicken_Souvlaki_Pita.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken breast cut into cubes",
+                    "quantity": "600",
+                    "unit": "grams"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "Greek pitas",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped tomato",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "thinly sliced red onion",
+                    "quantity": "½",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Cut chicken breast into cubes (about 3cm). Mix lemon juice, olive oil, oregano, salt, and pepper in a bowl.",
+                "Add chicken cubes to marinade, cover and refrigerate for at least 2 hours (or overnight for best results).",
+                "Thread chicken onto skewers. Grill over high heat or in a grill pan for 12-15 minutes, turning occasionally.",
+                "Warm pita bread. Serve skewers with tzatziki, chopped tomatoes, onions, and lettuce. Can be wrapped in pita."
+            ],
+            "tags": [
+                "grilled",
+                "chicken",
+                "lemon",
+                "oregano",
+                "pita"
+            ]
+        },
+        {
+            "id": "avgolemono",
+            "title": "Αυγολέμονο",
+            "originalName": "Αυγολέμονο",
+            "description": "Silky chicken soup with egg-lemon sauce — comfort in a bowl, Greek style.",
+            "category": "Soups",
+            "image": "images/Avgolemono_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken stock",
+                    "quantity": "1",
+                    "unit": "liter"
+                },
+                {
+                    "name": "round grain rice",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "¼",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cooked shredded chicken breast",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "salt and white pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh dill for garnish",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "In a pot, bring chicken broth to a boil. Add rice and cook 15 minutes until tender.",
+                "In a bowl, beat eggs well. Slowly add lemon juice while whisking.",
+                "Temper the egg mixture: slowly add 1-2 ladles of hot broth while whisking constantly (this prevents curdling).",
+                "Remove soup from heat. Slowly pour egg-lemon mixture into soup while stirring constantly.",
+                "Return to very low heat for 2 minutes without boiling. Season with salt and white pepper. Serve immediately."
+            ],
+            "tags": [
+                "soup",
+                "lemon",
+                "egg",
+                "rice",
+                "chicken"
+            ]
+        },
+        {
+            "id": "spanakopita",
+            "title": "Σπανακόπιτα",
+            "originalName": "Σπανακόπιτα",
+            "description": "Crispy phyllo pie filled with fresh spinach, feta cheese, and aromatic herbs — a classic Greek pastry.",
+            "category": "Baked Goods",
+            "image": "images/Spanakopita_Spinach_Pie.jpg",
+            "prepTime": 25,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "fresh spinach (or frozen, squeezed dry)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "crumbled feta cheese",
+                    "quantity": "250",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped green onion",
+                    "quantity": "4",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "12",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "nutmeg",
+                    "quantity": "",
+                    "unit": "pinch"
+                }
+            ],
+            "instructions": [
+                "Sauté chopped onion in olive oil until soft. Add spinach and cook until wilted. Let cool.",
+                "In a bowl, mix cooled spinach, crumbled feta, beaten eggs, dill, salt, and pepper.",
+                "Brush a 9x13 inch baking dish with melted butter. Layer 6 phyllo sheets, brushing each with butter.",
+                "Spread spinach-feta mixture evenly. Cover with 6 more phyllo sheets, brushing each with butter.",
+                "Score the top into squares. Bake at 180°C for 40-45 minutes until golden and crispy."
+            ],
+            "tags": [
+                "phyllo",
+                "spinach",
+                "feta",
+                "oven",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "baklava",
+            "title": "Μπακλαβάς",
+            "originalName": "Μπακλαβάς",
+            "description": "Layers of crispy phyllo, chopped nuts, and honey syrup — the most iconic Greek dessert.",
+            "category": "Desserts",
+            "image": "images/Baklava.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "1",
+                    "unit": "package (450g)"
+                },
+                {
+                    "name": "coarsely chopped walnuts",
+                    "quantity": "300",
+                    "unit": "grams"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "lemon peel",
+                    "quantity": "1",
+                    "unit": "strip"
+                }
+            ],
+            "instructions": [
+                "Mix chopped walnuts, pistachios, cinnamon, and sugar.",
+                "Brush a 9x13 inch pan with melted butter. Layer 8 phyllo sheets, brushing each with butter.",
+                "Sprinkle a layer of nut mixture. Add 2 phyllo sheets (buttered), then nuts. Repeat until nuts are used.",
+                "Top with 8 phyllo sheets, buttering each. Cut into diamond or square shapes before baking.",
+                "Bake at 160°C for 50-60 minutes until golden. While hot, pour cooled syrup (honey, water, lemon) over. Let absorb overnight."
+            ],
+            "tags": [
+                "phyllo",
+                "nuts",
+                "honey",
+                "dessert",
+                "traditional"
+            ]
+        },
+        {
+            "id": "horiatiki",
+            "title": "Χωριάτικη Σαλάτα",
+            "originalName": "Χωριάτικη Σαλάτα",
+            "description": "Authentic village salad with chunky vegetables, olives, and a slab of feta — no lettuce, pure Greek flavors.",
+            "category": "Sauces & Sides",
+            "image": "images/Greek_Salad.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ripe tomatoes cut into chunks",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "cucumber cut into half moons",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "green pepper cut into strips",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "thinly sliced red onion",
+                    "quantity": "½",
+                    "unit": ""
+                },
+                {
+                    "name": "Kalamata olives",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "block of feta cheese",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sea salt to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Cut tomatoes into large wedges, cucumber into thick half-moons, and bell pepper into wide strips.",
+                "Slice red onion into thick rings. Arrange vegetables on a platter.",
+                "Top with Kalamata olives and a thick slab (not crumbled) of feta cheese.",
+                "Drizzle generously with extra virgin olive oil. Sprinkle with dried oregano, salt, and pepper.",
+                "Do not toss. Serve immediately with crusty bread to soak up the juices."
+            ],
+            "tags": [
+                "salad",
+                "feta",
+                "tomatoes",
+                "olives",
+                "traditional"
+            ]
+        },
+        {
+            "id": "pastitsio",
+            "title": "Παστίτσιο",
+            "originalName": "Παστίτσιο",
+            "description": "Greek pasta bake with layers of tubular pasta, spiced meat sauce, and creamy béchamel — comfort food at its finest.",
+            "category": "Main Courses",
+            "image": "images/Pastitsio.jpg",
+            "prepTime": 25,
+            "cookTime": 50,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "macaroni (thick tubular pasta)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato sauce",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "butter",
+                    "quantity": "60",
+                    "unit": "grams"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "milk",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "grated hard cheese",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Cook pasta according to package directions until al dente. Drain and mix with beaten egg and grated cheese.",
+                "Brown ground beef with onion and garlic. Add tomato sauce, wine, cinnamon, oregano, salt, and pepper. Simmer 20 minutes.",
+                "Make béchamel: melt butter, add flour, gradually whisk in milk. Cook until thick. Season with nutmeg and stir in egg yolks.",
+                "In a baking dish, layer half the pasta, all the meat sauce, remaining pasta, and top with béchamel.",
+                "Bake at 180°C for 45 minutes until golden. Let rest 15 minutes before cutting."
+            ],
+            "tags": [
+                "pasta",
+                "baked",
+                "beef",
+                "béchamel",
+                "cinnamon"
+            ]
+        },
+        {
+            "id": "fasolada",
+            "title": "Φασολάδα",
+            "originalName": "Φασολάδα",
+            "description": "Hearty white bean soup with vegetables and herbs — considered the national dish of Greece.",
+            "category": "Soups",
+            "image": "images/Fasolada_White_Bean_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white beans (soaked overnight)",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "diced carrots",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped celery",
+                    "quantity": "2",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "⅓",
+                    "unit": "cup"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "liter"
+                }
+            ],
+            "instructions": [
+                "Soak white beans overnight. Drain and rinse.",
+                "In a large pot, sauté onion, carrots, and celery in olive oil until soft.",
+                "Add beans, tomato paste, bay leaves, and water. Bring to boil, then simmer 1.5-2 hours until beans are tender.",
+                "Add tomatoes, oregano, salt, and pepper. Cook another 15 minutes.",
+                "Remove bay leaves. Drizzle with quality olive oil before serving. Serve with crusty bread and olives."
+            ],
+            "tags": [
+                "beans",
+                "soup",
+                "vegetarian",
+                "tomatoes",
+                "olive oil"
+            ]
+        },
+        {
+            "id": "tiropita",
+            "title": "Τυρόπιτα",
+            "originalName": "Τυρόπιτα",
+            "description": "Cheese pie with phyllo and mixed Greek cheeses — a savory breakfast or snack.",
+            "category": "Baked Goods",
+            "image": "images/Tiropita_Cheese_Pie.jpg",
+            "prepTime": 20,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "crumbled feta cheese",
+                    "quantity": "300",
+                    "unit": "grams"
+                },
+                {
+                    "name": "ricotta cheese",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly ground black pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "10",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "100",
+                    "unit": "grams"
+                }
+            ],
+            "instructions": [
+                "Mix crumbled feta, ricotta, grated kasseri (or mozzarella), beaten eggs, and a pinch of nutmeg.",
+                "Brush a 9x13 inch pan with melted butter. Layer 6 phyllo sheets, brushing each with butter.",
+                "Spread cheese mixture evenly over phyllo.",
+                "Cover with 6 more phyllo sheets, brushing each with butter. Score the top into squares.",
+                "Bake at 180°C for 40-45 minutes until golden and crispy. Serve warm."
+            ],
+            "tags": [
+                "phyllo",
+                "cheese",
+                "feta",
+                "baked",
+                "savory"
+            ]
+        },
+        {
+            "id": "loukoumades",
+            "title": "Λουκουμάδες",
+            "originalName": "Λουκουμάδες",
+            "description": "Greek honey puffs — crispy fried dough balls drizzled with honey and sprinkled with cinnamon and nuts.",
+            "category": "Desserts",
+            "image": "images/Loukoumades.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "1½",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "oil for deep frying",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "honey",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "chopped walnuts",
+                    "quantity": "¼",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water with a pinch of sugar. Let sit 10 minutes until foamy.",
+                "Mix flour, salt, and yeast mixture. Add water gradually to form a thick, sticky batter. Cover and let rise 1 hour.",
+                "Heat oil to 180°C. Drop spoonfuls of batter into hot oil. Fry until golden brown, turning once (3-4 minutes total).",
+                "Drain on paper towels. Arrange on a platter while still warm.",
+                "Drizzle generously with honey. Sprinkle with cinnamon and chopped walnuts. Serve immediately."
+            ],
+            "tags": [
+                "fried",
+                "honey",
+                "dough",
+                "dessert",
+                "traditional"
+            ]
+        },
+        {
+            "id": "fakes",
+            "title": "Φακές",
+            "originalName": "Φακές",
+            "description": "Hearty lentil soup with vegetables and vinegar — simple, nutritious, and delicious.",
+            "category": "Soups",
+            "image": "images/Fakes_Lentil_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 40,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "rinsed brown lentils",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "diced carrots",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "liter"
+                },
+                {
+                    "name": "red wine vinegar",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Rinse lentils. In a pot, combine lentils, chopped onion, carrots, celery, garlic, bay leaves, and water.",
+                "Bring to boil, then simmer 30-40 minutes until lentils are tender.",
+                "Add tomato paste, olive oil, salt, and pepper. Cook another 10 minutes.",
+                "Remove bay leaves. Drizzle with red wine vinegar and olive oil before serving.",
+                "Serve with olives, feta cheese, and crusty bread."
+            ],
+            "tags": [
+                "lentils",
+                "soup",
+                "vegetarian",
+                "vinegar",
+                "healthy"
+            ]
+        },
+        {
+            "id": "kakavia",
+            "title": "Κακαβιά",
+            "originalName": "Κακαβιά",
+            "description": "Traditional Greek fisherman soup with fresh fish, vegetables, and lemon — simple and flavorful.",
+            "category": "Soups",
+            "image": "images/Kakavia_Fisherman_Soup.jpg",
+            "prepTime": 20,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white fish fillet (barramundi or sea bream)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "cleaned shrimp",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "potatoes cut into cubes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped carrots",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped celery",
+                    "quantity": "2",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "In a pot, sauté onion, celery, and garlic in olive oil until soft.",
+                "Add diced potatoes, tomatoes, bay leaf, and water. Simmer 15 minutes.",
+                "Add fish chunks (firm white fish). Simmer 10 minutes until fish is cooked.",
+                "Season with salt, pepper, and lemon juice. Drizzle with olive oil.",
+                "Serve hot with crusty bread and lemon wedges."
+            ],
+            "tags": [
+                "fish",
+                "soup",
+                "lemon",
+                "vegetables",
+                "traditional"
+            ]
+        },
+        {
+            "id": "trahanas",
+            "title": "Τραχανάς",
+            "originalName": "Τραχανάς",
+            "description": "Rustic soup made with fermented wheat and milk granules — a comforting Greek staple.",
+            "category": "Soups",
+            "image": "images/Trahanas_Fermented_Grain_Soup.jpg",
+            "prepTime": 5,
+            "cookTime": 25,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "sour trahana (fermented grain granules)",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "vegetable or chicken broth",
+                    "quantity": "1",
+                    "unit": "liter"
+                },
+                {
+                    "name": "crumbled feta cheese",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Heat olive oil in a pot. Sauté chopped onion and tomato until soft.",
+                "Add trahanas (fermented wheat granules) and stir for 1 minute.",
+                "Pour in hot water or broth, stirring constantly to prevent lumps.",
+                "Simmer 15-20 minutes, stirring occasionally, until thick and creamy.",
+                "Season with salt and pepper. Top with crumbled feta or grated cheese before serving."
+            ],
+            "tags": [
+                "trahanas",
+                "soup",
+                "fermented",
+                "comfort food",
+                "traditional"
+            ]
+        },
+        {
+            "id": "spanakorizo-soup",
+            "title": "Σπανακόρυζο",
+            "originalName": "Σπανακόρυζο",
+            "description": "Light spinach and rice soup with lemon — healthy and refreshing.",
+            "category": "Soups",
+            "image": "images/Spanakorizo_Spinach_Rice_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fresh washed spinach",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "round grain rice",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped green onion",
+                    "quantity": "3",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "vegetable stock",
+                    "quantity": "1",
+                    "unit": "liter"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sauté chopped onion and scallions in olive oil until soft.",
+                "Add chopped spinach and cook until wilted.",
+                "Add rice and vegetable broth. Simmer 15-20 minutes until rice is tender.",
+                "Season with salt, pepper, and fresh lemon juice.",
+                "Drizzle with olive oil and serve with dill garnish."
+            ],
+            "tags": [
+                "spinach",
+                "rice",
+                "soup",
+                "lemon",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "revithia",
+            "title": "Ρεβιθιά",
+            "originalName": "Ρεβιθιά",
+            "description": "Slow-baked chickpea soup with lemon and herbs — creamy, tangy, and nutritious.",
+            "category": "Soups",
+            "image": "images/Revithia_Chickpea_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas (soaked overnight)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "large coarsely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "bay leaf",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": "1.5",
+                    "unit": "liter"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Soak chickpeas overnight. Drain and rinse.",
+                "In a baking dish, combine chickpeas, chopped onion, olive oil, baking soda, salt, and water.",
+                "Cover and bake at 160°C for 3-4 hours until chickpeas are very soft and creamy.",
+                "Stir occasionally, adding water if needed.",
+                "Season with lemon juice, salt, and pepper. Serve hot with crusty bread."
+            ],
+            "tags": [
+                "chickpeas",
+                "soup",
+                "baked",
+                "lemon",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "cauliflower-lemon-soup",
+            "title": "Κουνουπίδι Σούπα Αυγολέμονο",
+            "originalName": "Κουνουπίδι Σούπα Αυγολέμονο",
+            "description": "Creamy cauliflower soup with egg-lemon sauce — velvety and comforting.",
+            "category": "Soups",
+            "image": "images/Cauliflower_Lemon_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cauliflower cut into florets",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "vegetable stock",
+                    "quantity": "1",
+                    "unit": "liter"
+                },
+                {
+                    "name": "medium potato diced",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh dill for garnish",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Boil cauliflower florets in vegetable broth until very tender.",
+                "Blend half the cauliflower to create a creamy base. Leave the rest chunky.",
+                "Beat eggs with lemon juice. Temper with hot soup.",
+                "Remove soup from heat and stir in egg-lemon mixture.",
+                "Season with salt and white pepper. Garnish with fresh herbs."
+            ],
+            "tags": [
+                "cauliflower",
+                "soup",
+                "egg-lemon",
+                "creamy",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "greek-tomato-soup",
+            "title": "Ντοματόσουπα",
+            "originalName": "Ντοματόσουπα",
+            "description": "Rich tomato soup with orzo and fresh herbs — hearty and satisfying.",
+            "category": "Soups",
+            "image": "images/Greek_Tomato_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "vegetable stock",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "crumbled feta cheese for serving",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sauté onion and garlic in olive oil. Add tomato paste and cook 2 minutes.",
+                "Add crushed tomatoes, vegetable broth, oregano, and bay leaf. Simmer 20 minutes.",
+                "Add orzo pasta and cook 10 minutes until tender.",
+                "Remove bay leaf. Season with salt, pepper, and a pinch of sugar.",
+                "Drizzle with olive oil and garnish with fresh basil. Serve with crusty bread."
+            ],
+            "tags": [
+                "tomato",
+                "soup",
+                "orzo",
+                "herbs",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "mushroom-soup",
+            "title": "Μανιταρόσουπα",
+            "originalName": "Μανιταρόσουπα",
+            "description": "Creamy mushroom soup with fresh herbs and a hint of lemon — earthy and delicious.",
+            "category": "Soups",
+            "image": "images/Greek_Mushroom_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "button mushrooms (or mixed mushrooms)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "30",
+                    "unit": "grams"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dry white wine",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable stock",
+                    "quantity": "750",
+                    "unit": "ml"
+                },
+                {
+                    "name": "fresh thyme",
+                    "quantity": "3",
+                    "unit": "sprigs"
+                },
+                {
+                    "name": "heavy cream",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sauté sliced mushrooms in butter until golden. Remove and set aside.",
+                "In the same pot, sauté onion and garlic. Add flour and cook 2 minutes.",
+                "Gradually add vegetable broth, whisking to prevent lumps. Simmer 10 minutes.",
+                "Return mushrooms to pot. Add cream, lemon juice, salt, and pepper.",
+                "Garnish with fresh parsley or dill. Serve hot."
+            ],
+            "tags": [
+                "mushroom",
+                "soup",
+                "creamy",
+                "lemon",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "gyros",
+            "title": "Γύρος",
+            "originalName": "Γύρος",
+            "description": "Marinated pork or chicken cooked on a vertical rotisserie, served in pita with tzatziki and vegetables.",
+            "category": "Main Courses",
+            "image": "images/Gyros_Meat_Skewer.jpg",
+            "prepTime": 30,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "boneless lamb shoulder",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "boneless chicken thighs",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "grated onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "2",
+                    "unit": "teaspoons"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "Greek pitas",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "sliced tomato",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "sliced purple onion",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Slice pork shoulder or chicken thighs thinly. Marinate with olive oil, lemon juice, garlic, oregano, paprika, cumin, salt, and pepper for 4 hours.",
+                "If using a vertical rotisserie, stack marinated meat and cook. Otherwise, grill or pan-fry in batches until crispy.",
+                "Warm pita bread. Spread with tzatziki.",
+                "Fill with cooked meat, sliced tomatoes, onions, and lettuce.",
+                "Wrap tightly and serve with fries on the side (Greek style)."
+            ],
+            "tags": [
+                "pork",
+                "chicken",
+                "pita",
+                "tzatziki",
+                "street food"
+            ]
+        },
+        {
+            "id": "keftedes",
+            "title": "Κεφτέδες",
+            "originalName": "Κεφτέδες",
+            "description": "Herb-packed Greek meatballs with fresh mint and oregano — crispy outside, juicy inside.",
+            "category": "Main Courses",
+            "image": "images/Keftedes_Greek_Meatballs.jpg",
+            "prepTime": 20,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "grated onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "stale white bread (crust removed), soaked in water",
+                    "quantity": "2",
+                    "unit": "slices"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh chopped mint",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "flour for coating",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil for frying",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Mix ground beef, grated onion, crushed garlic, beaten egg, breadcrumbs, chopped mint, oregano, salt, and pepper.",
+                "Knead mixture well with hands. Let rest 30 minutes in refrigerator.",
+                "Form small balls (walnut-size). Roll lightly in flour.",
+                "Fry in hot olive oil until golden brown on all sides and cooked through (about 10 minutes).",
+                "Drain on paper towels. Serve hot with lemon wedges and tzatziki."
+            ],
+            "tags": [
+                "meatballs",
+                "fried",
+                "mint",
+                "oregano",
+                "beef"
+            ]
+        },
+        {
+            "id": "kleftiko",
+            "title": "Κλέφτικο",
+            "originalName": "Κλέφτικο",
+            "description": "Slow-roasted lamb with lemon and herbs, traditionally cooked in parchment — melt-in-your-mouth tender.",
+            "category": "Main Courses",
+            "image": "images/Kleftiko_Slow_Cooked_Lamb.jpg",
+            "prepTime": 25,
+            "cookTime": 180,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "bone-in lamb shoulder",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "potatoes, quartered",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "whole garlic cloves",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh rosemary",
+                    "quantity": "3",
+                    "unit": "sprigs"
+                },
+                {
+                    "name": "tomatoes quartered",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "mild chili peppers",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "dry white wine",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coarse salt and black pepper",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Marinate lamb shoulder pieces with lemon juice, olive oil, garlic, oregano, rosemary, salt, and pepper. Refrigerate 4 hours.",
+                "Place lamb in a roasting pan with sliced potatoes, onions, and tomatoes around it.",
+                "Pour marinade over everything. Add a bit of water. Cover tightly with foil or parchment paper.",
+                "Bake at 160°C for 3-4 hours until lamb is fall-apart tender.",
+                "Uncover for last 30 minutes to brown. Serve with pan juices and crusty bread."
+            ],
+            "tags": [
+                "lamb",
+                "slow-roasted",
+                "lemon",
+                "herbs",
+                "potatoes"
+            ]
+        },
+        {
+            "id": "stifado",
+            "title": "Στιφάδο",
+            "originalName": "Στιφάδο",
+            "description": "Rich beef stew with pearl onions, tomatoes, and warm spices — slow-cooked to perfection.",
+            "category": "Main Courses",
+            "image": "images/Stifado_Beef_Stew.jpg",
+            "prepTime": 20,
+            "cookTime": 120,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef stew meat, cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "pearl onions (shallots), peeled and whole",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dry red wine",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "red wine vinegar",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "whole cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Brown beef cubes in olive oil. Remove and set aside.",
+                "In the same pot, sauté pearl onions until golden. Add garlic, tomato paste, and wine. Simmer 2 minutes.",
+                "Return beef to pot. Add tomatoes, bay leaves, cinnamon stick, cloves, vinegar, salt, and pepper.",
+                "Cover and simmer on very low heat for 2-3 hours until beef is very tender and sauce is thick.",
+                "Remove bay leaves and cinnamon stick. Serve hot with crusty bread or pasta."
+            ],
+            "tags": [
+                "beef",
+                "stew",
+                "onions",
+                "tomatoes",
+                "slow-cooked"
+            ]
+        },
+        {
+            "id": "psari-plaki",
+            "title": "Ψάρι Πλακί",
+            "originalName": "Ψάρι Πλακί",
+            "description": "Baked fish with tomatoes, onions, and herbs — a simple and healthy Greek classic.",
+            "category": "Main Courses",
+            "image": "images/PsariPlaki.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white fish fillet (sea bream, mullet, or barramundi)",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe chopped tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion sliced into rings",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sliced garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dry white wine",
+                    "quantity": "¼",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Place fish fillets (or whole fish) in a baking dish. Season with salt and pepper.",
+                "Top with sliced onions, tomatoes, garlic, parsley, and olive oil.",
+                "Add white wine and a bit of water. Sprinkle with oregano.",
+                "Bake at 180°C for 30-40 minutes until fish is cooked through and vegetables are tender.",
+                "Serve hot with lemon wedges and crusty bread."
+            ],
+            "tags": [
+                "fish",
+                "baked",
+                "tomatoes",
+                "healthy",
+                "Mediterranean"
+            ]
+        },
+        {
+            "id": "kotopoulo-lemonato",
+            "title": "Κοτόπουλο Λεμονάτο",
+            "originalName": "Κοτόπουλο Λεμονάτο",
+            "description": "Lemon chicken with herbs and potatoes — juicy, tangy, and aromatic.",
+            "category": "Main Courses",
+            "image": "images/KotopouloLemonato.jpg",
+            "prepTime": 15,
+            "cookTime": 75,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chicken drumsticks (leg and thigh)",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes, cut into eighths",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chicken stock",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Dijon mustard",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Marinate chicken pieces with lemon juice, olive oil, garlic, oregano, salt, and pepper for 1 hour.",
+                "Place chicken and potato wedges in a roasting pan.",
+                "Pour marinade over. Add chicken broth or water.",
+                "Bake at 180°C for 1-1.5 hours, basting occasionally, until chicken is golden and potatoes are crispy.",
+                "Serve hot with pan juices and a fresh salad."
+            ],
+            "tags": [
+                "chicken",
+                "lemon",
+                "potatoes",
+                "roasted",
+                "herbs"
+            ]
+        },
+        {
+            "id": "yemista",
+            "title": "Γεμιστά",
+            "originalName": "Γεμιστά",
+            "description": "Tomatoes and peppers stuffed with herbed rice and baked until tender — a summer classic.",
+            "category": "Main Courses",
+            "image": "images/Gemista_Stuffed_Vegetables.jpg",
+            "prepTime": 25,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "large tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "bell peppers (assorted colors)",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "round grain rice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh chopped mint",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "potatoes, quartered",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Cut tops off tomatoes and peppers, scoop out insides. Reserve pulp and chop. Lightly salt shells.",
+                "Sauté onion in olive oil. Add rice, tomato pulp, parsley, mint, dill, salt, and pepper. Cook 5 minutes.",
+                "Stuff vegetables with rice mixture (fill only 3/4 full, rice will expand). Replace tops.",
+                "Arrange in baking dish. Add potatoes around vegetables. Drizzle with olive oil, add water to 1cm depth.",
+                "Bake at 180°C for 1.5 hours until vegetables are tender and rice is cooked. Serve warm or at room temperature."
+            ],
+            "tags": [
+                "stuffed vegetables",
+                "rice",
+                "herbs",
+                "baked",
+                "summer"
+            ]
+        },
+        {
+            "id": "greek-pita",
+            "title": "Πίτα",
+            "originalName": "Πίτα",
+            "description": "Soft, pillowy Greek flatbread perfect for wrapping souvlaki and gyros.",
+            "category": "Baked Goods",
+            "image": "images/Pita_Bread.jpg",
+            "prepTime": 90,
+            "cookTime": 10,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "300",
+                    "unit": "ml"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "Greek yogurt",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water with a pinch of sugar. Let sit 10 minutes until foamy.",
+                "Mix flour, salt, olive oil, and yeast mixture. Knead 10 minutes until smooth and elastic.",
+                "Let rise in a warm place for 1 hour until doubled.",
+                "Divide into 8 balls. Roll each into a thin circle.",
+                "Cook in a hot, dry skillet or griddle for 2-3 minutes per side until puffed and lightly charred. Keep warm wrapped in a towel."
+            ],
+            "tags": [
+                "bread",
+                "flatbread",
+                "yeast",
+                "homemade",
+                "pita"
+            ]
+        },
+        {
+            "id": "horiatiko-psomi",
+            "title": "Χωριάτικο Ψωμί",
+            "originalName": "Χωριάτικο Ψωμί",
+            "description": "Rustic Greek village bread with a crispy crust and soft interior — perfect with olive oil and olives.",
+            "category": "Baked Goods",
+            "image": "images/HoriatikoPsomi.jpg",
+            "prepTime": 120,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "whole wheat flour",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "7",
+                    "unit": "grams"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "320",
+                    "unit": "ml"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water. Mix with flour, salt, and olive oil. Knead 10 minutes.",
+                "Let rise 1.5 hours until doubled.",
+                "Shape into a round loaf. Place in a floured banneton or bowl. Let rise 45 minutes.",
+                "Score the top. Bake at 220°C for 35-40 minutes until golden brown with a hollow sound when tapped.",
+                "Cool on a wire rack before slicing."
+            ],
+            "tags": [
+                "bread",
+                "rustic",
+                "yeast",
+                "village bread",
+                "homemade"
+            ]
+        },
+        {
+            "id": "bourekakia",
+            "title": "Μπουρεκάκια",
+            "originalName": "Μπουρεκάκια",
+            "description": "Small cheese or meat phyllo rolls — perfect finger food for parties.",
+            "category": "Baked Goods",
+            "image": "images/Bourekakia.jpg",
+            "prepTime": 30,
+            "cookTime": 20,
+            "servings": 24,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "12",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "crumbled feta cheese",
+                    "quantity": "250",
+                    "unit": "grams"
+                },
+                {
+                    "name": "cream cheese",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh chopped mint",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "100",
+                    "unit": "grams"
+                }
+            ],
+            "instructions": [
+                "For cheese filling: mix feta, ricotta, egg, and chopped mint. For meat: use cooked ground beef with spices.",
+                "Cut phyllo sheets into strips (about 3 inches wide). Brush with melted butter.",
+                "Place a spoonful of filling at one end. Roll tightly into a cigar, sealing edges with butter.",
+                "Arrange seam-side down on baking sheet. Brush tops with butter.",
+                "Bake at 180°C for 20-25 minutes until golden. Serve warm."
+            ],
+            "tags": [
+                "phyllo",
+                "cheese",
+                "meat",
+                "rolls",
+                "appetizer"
+            ]
+        },
+        {
+            "id": "tsoureki",
+            "title": "Τσουρέκι",
+            "originalName": "Τσουρέκι",
+            "description": "Sweet braided Easter bread flavored with mahlab and mastic — soft, aromatic, and festive.",
+            "category": "Baked Goods",
+            "image": "images/Tsoureki_Sweet_Bread.jpg",
+            "prepTime": 40,
+            "cookTime": 35,
+            "servings": 10,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "600",
+                    "unit": "grams"
+                },
+                {
+                    "name": "fresh yeast (or 10g dry yeast)",
+                    "quantity": "25",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "lukewarm milk",
+                    "quantity": "150",
+                    "unit": "ml"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "mahlab (Greek spice)",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cardamom",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "grated orange zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "beaten egg for coating",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sliced almonds",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm milk with sugar. Add eggs, butter, flour, mahlab, mastic, salt, and orange zest. Knead 15 minutes.",
+                "Let rise 2 hours until doubled.",
+                "Divide into 3 strands. Braid tightly. Place on baking sheet.",
+                "Let rise 1 hour. Brush with egg wash and sprinkle with almonds and sesame seeds.",
+                "Bake at 180°C for 30-35 minutes until golden. Cool before slicing."
+            ],
+            "tags": [
+                "bread",
+                "sweet",
+                "braided",
+                "Easter",
+                "festive"
+            ]
+        },
+        {
+            "id": "koulouri",
+            "title": "Κουλούρι",
+            "originalName": "Κουλούρι",
+            "description": "Sesame bread rings — a popular Greek street food breakfast.",
+            "category": "Baked Goods",
+            "image": "images/Koulouri_Sesame_Bread_Rings.jpg",
+            "prepTime": 100,
+            "cookTime": 20,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "7",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "280",
+                    "unit": "ml"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sesame",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "honey for spreading",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "water for dipping",
+                    "quantity": "½",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water with sugar. Mix with flour, salt, and olive oil. Knead 10 minutes.",
+                "Let rise 1 hour until doubled.",
+                "Divide into 10 pieces. Roll each into a long rope and form into a ring.",
+                "Brush with water or honey-water. Dip in sesame seeds to coat.",
+                "Bake at 200°C for 20-25 minutes until golden. Serve fresh."
+            ],
+            "tags": [
+                "bread",
+                "sesame",
+                "rings",
+                "street food",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "prassopita",
+            "title": "Πρασόπιτα",
+            "originalName": "Πρασόπιτα",
+            "description": "Leek pie with phyllo and feta — a delicious vegetarian option.",
+            "category": "Baked Goods",
+            "image": "images/Prassopita.jpg",
+            "prepTime": 25,
+            "cookTime": 45,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "leeks (white and light green parts) sliced",
+                    "quantity": "800",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped green onion",
+                    "quantity": "4",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "crumbled feta cheese",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "12",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "80",
+                    "unit": "grams"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Sauté sliced leeks in olive oil until very soft. Let cool.",
+                "Mix leeks with crumbled feta, beaten eggs, dill, salt, and pepper.",
+                "Brush a baking dish with butter. Layer 6 phyllo sheets, brushing each with butter.",
+                "Spread leek mixture evenly. Cover with 6 more phyllo sheets, brushing each with butter.",
+                "Score the top into squares. Bake at 180°C for 40-45 minutes until golden."
+            ],
+            "tags": [
+                "phyllo",
+                "leeks",
+                "feta",
+                "vegetarian",
+                "pie"
+            ]
+        },
+        {
+            "id": "eliopsomo",
+            "title": "Ελιόψωμο",
+            "originalName": "Ελιόψωμο",
+            "description": "Olive bread with herbs — rustic, flavorful, and perfect with cheese.",
+            "category": "Baked Goods",
+            "image": "images/Olive_Bread.jpg",
+            "prepTime": 90,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "7",
+                    "unit": "grams"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "300",
+                    "unit": "ml"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "pitted Kalamata olives, halved",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water. Mix with flour, salt, olive oil, chopped olives, and dried oregano. Knead 10 minutes.",
+                "Let rise 1.5 hours until doubled.",
+                "Shape into a loaf. Let rise 45 minutes.",
+                "Score the top. Brush with olive oil.",
+                "Bake at 200°C for 35-40 minutes until golden. Cool before slicing."
+            ],
+            "tags": [
+                "bread",
+                "olives",
+                "herbs",
+                "savory",
+                "rustic"
+            ]
+        },
+        {
+            "id": "kaltsounia",
+            "title": "Καλτσούνια",
+            "originalName": "Καλτσούνια",
+            "description": "Cretan cheese pastries with honey — sweet or savory, depending on the filling.",
+            "category": "Baked Goods",
+            "image": "images/Kaltsounia.jpg",
+            "prepTime": 30,
+            "cookTime": 25,
+            "servings": 16,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh orange juice",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "¼",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ricotta cheese (substitute for mizithra)",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "dried mint",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Make dough: mix flour, olive oil, raki (or water), and a pinch of salt. Knead until smooth. Rest 30 minutes.",
+                "Make filling: mix mizithra or ricotta cheese with egg, sugar (for sweet) or herbs (for savory).",
+                "Roll dough thin. Cut into circles. Place filling in center.",
+                "Fold into half-moons or leave open-faced. Seal edges.",
+                "Bake at 180°C for 20-25 minutes until golden. Drizzle sweet version with honey."
+            ],
+            "tags": [
+                "pastry",
+                "cheese",
+                "Cretan",
+                "honey",
+                "traditional"
+            ]
+        },
+        {
+            "id": "galaktoboureko",
+            "title": "Γαλακτομπούρεκο",
+            "originalName": "Γαλακτομπούρεκο",
+            "description": "Custard-filled phyllo pastry soaked in honey syrup — a luscious dessert that melts in your mouth.",
+            "category": "Desserts",
+            "image": "images/Galaktoboureko.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "whole milk",
+                    "quantity": "1",
+                    "unit": "liter"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "30",
+                    "unit": "grams"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "12",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "melted butter for phyllo",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice for syrup",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Make custard: heat milk with sugar and semolina, stirring constantly until thick. Remove from heat.",
+                "Beat eggs and vanilla. Slowly add to warm custard while whisking. Let cool slightly.",
+                "Butter a 9x13 inch pan. Layer 8 phyllo sheets, brushing each with melted butter.",
+                "Pour custard over phyllo. Cover with 8 more phyllo sheets, buttering each. Score the top.",
+                "Bake at 180°C for 45 minutes until golden. Pour cooled syrup (sugar, water, lemon, honey) over hot pastry. Let absorb 4 hours."
+            ],
+            "tags": [
+                "custard",
+                "phyllo",
+                "semolina",
+                "syrup",
+                "dessert"
+            ]
+        },
+        {
+            "id": "ravani",
+            "title": "Ραβανί",
+            "originalName": "Ραβανί",
+            "description": "Moist semolina cake soaked in citrus syrup — a simple yet elegant Greek dessert.",
+            "category": "Desserts",
+            "image": "images/Ravani.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "Greek yogurt",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "1½",
+                    "unit": "cups"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice for syrup",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Beat eggs with sugar until light and fluffy. Add yogurt, semolina, flour, baking powder, and vanilla. Mix well.",
+                "Pour batter into greased 9x13 inch pan. Bake at 180°C for 30-35 minutes until golden and set.",
+                "While cake bakes, make syrup: boil sugar, water, lemon juice, and orange zest for 5 minutes. Let cool.",
+                "As soon as cake comes out of oven, score into diamond shapes and pour cooled syrup evenly over hot cake.",
+                "Let absorb overnight. Garnish with sliced almonds before serving."
+            ],
+            "tags": [
+                "semolina",
+                "cake",
+                "syrup",
+                "yogurt",
+                "dessert"
+            ]
+        },
+        {
+            "id": "halva",
+            "title": "Χαλβάς",
+            "originalName": "Χαλβάς",
+            "description": "Semolina dessert with honey and almonds — simple, comforting, and traditional.",
+            "category": "Desserts",
+            "image": "images/Halva.jpg",
+            "prepTime": 5,
+            "cookTime": 15,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "coarse semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "orange zest",
+                    "quantity": "1",
+                    "unit": "strip"
+                },
+                {
+                    "name": "toasted walnuts or almonds",
+                    "quantity": "¼",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Toast semolina in a dry pan until lightly golden and fragrant. Set aside.",
+                "Make syrup: boil sugar, water, honey, and cinnamon stick for 5 minutes. Keep hot.",
+                "In a large pot, heat olive oil or butter. Add toasted semolina and stir constantly 5 minutes.",
+                "Carefully pour hot syrup into semolina (it will bubble vigorously). Stir quickly until absorbed.",
+                "Mix in toasted almonds and raisins. Pour into a mold or dish. Cool completely before serving."
+            ],
+            "tags": [
+                "semolina",
+                "honey",
+                "almonds",
+                "dessert",
+                "traditional"
+            ]
+        },
+        {
+            "id": "kourabiedes",
+            "title": "Κουραμπιέδες",
+            "originalName": "Κουραμπιέδες",
+            "description": "Buttery almond cookies dusted with powdered sugar — a Christmas tradition.",
+            "category": "Desserts",
+            "image": "images/Kourabiedes.jpg",
+            "prepTime": 20,
+            "cookTime": 20,
+            "servings": 30,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "soft butter (room temperature)",
+                    "quantity": "250",
+                    "unit": "grams"
+                },
+                {
+                    "name": "powdered sugar",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg yolk",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "brandy or ouzo",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "toasted coarsely chopped almonds",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "450",
+                    "unit": "grams"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "rose water",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "powdered sugar for coating",
+                    "quantity": "1½",
+                    "unit": "cups"
+                }
+            ],
+            "instructions": [
+                "Cream butter until fluffy. Beat in powdered sugar, vanilla, and brandy or ouzo.",
+                "Toast and finely chop almonds. Mix into butter mixture.",
+                "Gradually add flour to form a soft dough. Chill 30 minutes.",
+                "Form into crescents, balls, or dome shapes. Bake at 160°C for 20 minutes until just set (not browned).",
+                "While still warm, dust heavily with powdered sugar. Cool completely and dust again."
+            ],
+            "tags": [
+                "cookies",
+                "butter",
+                "almonds",
+                "powdered sugar",
+                "Christmas"
+            ]
+        },
+        {
+            "id": "melomakarona",
+            "title": "Μελομακάρονα",
+            "originalName": "Μελομακάρονα",
+            "description": "Honey-soaked spice cookies with walnuts — a traditional Greek Christmas treat.",
+            "category": "Desserts",
+            "image": "images/Melomakarona.jpg",
+            "prepTime": 25,
+            "cookTime": 25,
+            "servings": 30,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "olive oil",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "¼",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh orange juice",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "grated orange zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "honey for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "finely chopped walnuts for decoration",
+                    "quantity": "¾",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix olive oil, sugar, orange juice, cognac, and orange zest. Beat until creamy.",
+                "Add flour, baking powder, cinnamon, cloves, and a pinch of baking soda. Mix to form dough.",
+                "Shape into ovals. Place on baking sheets, press gently with fork to flatten slightly.",
+                "Bake at 180°C for 25 minutes until golden. Cool 10 minutes.",
+                "Dip warm cookies in hot honey syrup (honey, water, sugar, cinnamon). Top with chopped walnuts."
+            ],
+            "tags": [
+                "cookies",
+                "honey",
+                "orange",
+                "walnuts",
+                "Christmas"
+            ]
+        },
+        {
+            "id": "portokalopita",
+            "title": "Πορτοκαλόπιτα",
+            "originalName": "Πορτοκαλόπιτα",
+            "description": "Orange phyllo cake soaked in syrup — shredded phyllo creates a unique, crunchy-soft texture.",
+            "category": "Desserts",
+            "image": "images/Portokalopita.jpg",
+            "prepTime": 20,
+            "cookTime": 45,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "dried phyllo dough sheets (from previous day)",
+                    "quantity": "6",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "Greek yogurt",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "grated orange zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh orange juice for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "½",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Shred phyllo dough by hand into small pieces. Let dry 1 hour.",
+                "Beat eggs with sugar and yogurt. Add orange juice, orange zest, baking powder, and vanilla.",
+                "Fold in shredded phyllo. Pour into greased pan.",
+                "Bake at 180°C for 40-45 minutes until golden.",
+                "Make syrup: boil sugar, water, and orange juice. Pour cooled syrup over hot cake. Let absorb overnight."
+            ],
+            "tags": [
+                "cake",
+                "orange",
+                "phyllo",
+                "syrup",
+                "dessert"
+            ]
+        },
+        {
+            "id": "yogurt-cake",
+            "title": "Greek Yogurt Cake",
+            "originalName": "Greek Yogurt Cake",
+            "description": "Light and fluffy yogurt cake — simple, versatile, and delicious.",
+            "category": "Desserts",
+            "image": "images/YogurtCake.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Greek yogurt (10% fat)",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "sunflower oil",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "powdered sugar for decoration",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Beat eggs with sugar until fluffy. Add yogurt, oil, and vanilla.",
+                "Sift in flour, baking powder, and a pinch of salt. Mix until smooth.",
+                "Pour into greased pan. Bake at 180°C for 35-40 minutes until golden and a toothpick comes out clean.",
+                "Cool in pan 10 minutes, then turn out onto wire rack.",
+                "Dust with powdered sugar or serve with honey and fruit."
+            ],
+            "tags": [
+                "cake",
+                "yogurt",
+                "simple",
+                "fluffy",
+                "dessert"
+            ]
+        },
+        {
+            "id": "rizogalo",
+            "title": "Ρυζόγαλο",
+            "originalName": "Ρυζόγαλο",
+            "description": "Creamy Greek rice pudding with cinnamon — comfort food at its finest.",
+            "category": "Desserts",
+            "image": "images/Rizogalo.jpg",
+            "prepTime": 5,
+            "cookTime": 35,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "round grain rice (arborio or similar)",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole milk",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "corn starch",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "lemon peel",
+                    "quantity": "1",
+                    "unit": "strip"
+                },
+                {
+                    "name": "ground cinnamon for decoration",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Rinse rice. Boil in water for 5 minutes, then drain.",
+                "In a pot, heat milk with sugar. Add rice and simmer 25-30 minutes, stirring frequently, until thick and creamy.",
+                "Remove from heat. Stir in vanilla or lemon zest.",
+                "Pour into bowls. Let cool to room temperature, then refrigerate.",
+                "Serve cold, sprinkled with cinnamon."
+            ],
+            "tags": [
+                "rice pudding",
+                "milk",
+                "cinnamon",
+                "dessert",
+                "creamy"
+            ]
+        },
+        {
+            "id": "tzatziki",
+            "title": "Τζατζίκι",
+            "originalName": "Τζατζίκι",
+            "description": "Cool and refreshing yogurt dip with cucumber, garlic, and dill — the perfect accompaniment to any Greek meal.",
+            "category": "Sauces & Sides",
+            "image": "images/Tzatziki_Sauce.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "thick Greek yogurt",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "large cucumber",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Grate cucumber and squeeze well to remove excess liquid (very important for thick texture).",
+                "In a bowl, mix Greek yogurt, squeezed cucumber, crushed garlic, olive oil, lemon juice, and chopped dill.",
+                "Season with salt and white pepper to taste. Mix well.",
+                "Refrigerate for at least 1 hour before serving to allow flavors to blend. Serve cold with pita or as a side."
+            ],
+            "tags": [
+                "yogurt",
+                "cucumber",
+                "garlic",
+                "dip",
+                "cold"
+            ]
+        },
+        {
+            "id": "skordalia",
+            "title": "Σκορδαλιά",
+            "originalName": "Σκορδαλιά",
+            "description": "Garlic and potato puree with olive oil — a bold and flavorful Greek dip.",
+            "category": "Sauces & Sides",
+            "image": "images/Skordalia.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "medium potatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "100",
+                    "unit": "ml"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "white wine vinegar",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "ground almonds",
+                    "quantity": "50",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "white pepper",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Boil potatoes until very tender. Drain and mash while hot (no lumps).",
+                "Add crushed garlic (a lot — this is a garlic dip!), white wine vinegar, and salt.",
+                "Slowly drizzle in olive oil while mixing constantly until creamy and emulsified.",
+                "Adjust consistency with a bit of potato cooking water if too thick.",
+                "Serve at room temperature with fried fish, beets, or bread."
+            ],
+            "tags": [
+                "garlic",
+                "potato",
+                "dip",
+                "olive oil",
+                "bold"
+            ]
+        },
+        {
+            "id": "tirokafteri",
+            "title": "Τυροκαυτερή",
+            "originalName": "Τυροκαυτερή",
+            "description": "Spicy feta and roasted red pepper dip — creamy, zesty, and perfect with pita.",
+            "category": "Sauces & Sides",
+            "image": "images/Tirokafteri.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "feta cheese",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "thick Greek yogurt",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "roasted red pepper from jar",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "small hot chili pepper",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "garlic clove",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Roast red peppers until charred. Peel, seed, and chop.",
+                "Blend roasted peppers, crumbled feta, Greek yogurt, olive oil, garlic, and red pepper flakes until smooth.",
+                "Season with lemon juice, salt, and pepper. Adjust spice level to taste.",
+                "Refrigerate 1 hour to let flavors develop.",
+                "Serve cold, drizzled with olive oil and garnished with chopped parsley."
+            ],
+            "tags": [
+                "feta",
+                "roasted peppers",
+                "spicy",
+                "dip",
+                "meze"
+            ]
+        },
+        {
+            "id": "dolmades",
+            "title": "Ντολμάδες",
+            "originalName": "Ντολμάδες",
+            "description": "Grape leaves stuffed with aromatic rice, pine nuts, and herbs — a traditional meze.",
+            "category": "Sauces & Sides",
+            "image": "images/Dolmades.jpg",
+            "prepTime": 40,
+            "cookTime": 45,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "pickled grape leaves",
+                    "quantity": "50",
+                    "unit": ""
+                },
+                {
+                    "name": "round grain rice",
+                    "quantity": "1",
+                    "unit": "cups"
+                },
+                {
+                    "name": "medium finely chopped onion",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "100",
+                    "unit": "ml"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh chopped mint",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "pine nuts",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "If using fresh grape leaves, blanch in boiling water for 2 minutes. If using jarred, rinse well.",
+                "Sauté onion in olive oil, add rice and stir for 2 minutes. Add water, pine nuts, raisins, mint, dill, salt, and pepper. Cook 10 minutes.",
+                "Place a grape leaf shiny side down. Add a tablespoon of filling to the center, fold sides, and roll tightly.",
+                "Arrange rolls seam-side down in a pot. Drizzle with olive oil and lemon juice, add water to cover.",
+                "Place a plate on top to weigh down. Simmer on low heat for 45 minutes. Serve warm or cold."
+            ],
+            "tags": [
+                "stuffed",
+                "rice",
+                "grape leaves",
+                "herbs",
+                "meze"
+            ]
+        },
+        {
+            "id": "fava",
+            "title": "Φάβα",
+            "originalName": "Φάβα",
+            "description": "Smooth yellow split pea puree with olive oil and lemon — a velvety vegetarian dip from Santorini.",
+            "category": "Sauces & Sides",
+            "image": "images/Fava_Yellow_Split_Pea.jpg",
+            "prepTime": 10,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "yellow split peas (fava)",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "medium chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic clove",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "water",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "red onion for garnish",
+                    "quantity": "½",
+                    "unit": ""
+                },
+                {
+                    "name": "capers",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Rinse yellow split peas. Boil with onion and water for 45 minutes until very soft and mushy.",
+                "Drain, reserving some cooking liquid. Remove onion.",
+                "Blend peas with olive oil, lemon juice, and reserved liquid until smooth and creamy.",
+                "Season with salt and white pepper. Adjust texture with more liquid if needed.",
+                "Serve warm or at room temperature, topped with capers, chopped onions, and a drizzle of olive oil."
+            ],
+            "tags": [
+                "split peas",
+                "dip",
+                "vegetarian",
+                "lemon",
+                "Santorini"
+            ]
+        },
+        {
+            "id": "melitzanosalata",
+            "title": "Μελιτζανοσαλάτα",
+            "originalName": "Μελιτζανοσαλάτα",
+            "description": "Smoky roasted eggplant dip with garlic and lemon — simple, flavorful, and addictive.",
+            "category": "Sauces & Sides",
+            "image": "images/Melitzanosalata.jpg",
+            "prepTime": 15,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "large eggplants",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "red wine vinegar",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "",
+                    "unit": ""
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Prick eggplants with a fork. Roast over open flame or in 200°C oven until skin is charred and flesh is very soft.",
+                "Let cool, then peel off charred skin. Drain eggplant flesh in a colander for 15 minutes.",
+                "Mash eggplant with a fork (do not use food processor — texture should be chunky).",
+                "Mix in crushed garlic, lemon juice, olive oil, salt, and pepper. Adjust seasoning.",
+                "Refrigerate 1 hour. Serve cold, garnished with parsley and a drizzle of olive oil."
+            ],
+            "tags": [
+                "eggplant",
+                "dip",
+                "roasted",
+                "garlic",
+                "smoky"
+            ]
+        },
+        {
+            "id": "patates-lemonates",
+            "title": "Πατάτες Λεμονάτες",
+            "originalName": "Πατάτες Λεμονάτες",
+            "description": "Lemon potatoes roasted in olive oil and herbs — crispy outside, tender inside.",
+            "category": "Sauces & Sides",
+            "image": "images/PatatesLemonates.jpg",
+            "prepTime": 10,
+            "cookTime": 55,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "large potatoes",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "80",
+                    "unit": "ml"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "80",
+                    "unit": "ml"
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "2",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "chicken or vegetable broth",
+                    "quantity": "1",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Cut potatoes into wedges. Place in a baking dish.",
+                "Mix lemon juice, olive oil, garlic, oregano, salt, and pepper. Pour over potatoes.",
+                "Add water or broth to 1cm depth.",
+                "Bake at 200°C for 1-1.5 hours, turning occasionally, until golden and crispy.",
+                "Serve hot as a side dish."
+            ],
+            "tags": [
+                "potatoes",
+                "lemon",
+                "roasted",
+                "olive oil",
+                "side dish"
+            ]
+        },
+        {
+            "id": "dill-rice",
+            "title": "Ρύζι με Άνηθο",
+            "originalName": "Ρύζι με Άνηθο",
+            "description": "Aromatic rice pilaf with fresh dill and lemon — light and flavorful.",
+            "category": "Sauces & Sides",
+            "image": "images/DillRice.jpg",
+            "prepTime": 5,
+            "cookTime": 20,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "basmati or long-grain rice",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable or chicken broth",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "butter",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "freshly squeezed lemon juice",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "small finely chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Sauté chopped onion in olive oil until soft.",
+                "Add rice and stir for 2 minutes to toast.",
+                "Pour in vegetable or chicken broth (2:1 liquid to rice ratio). Bring to boil.",
+                "Cover and simmer 15 minutes until liquid is absorbed.",
+                "Fluff with a fork. Mix in chopped fresh dill and lemon juice. Serve warm."
+            ],
+            "tags": [
+                "rice",
+                "dill",
+                "lemon",
+                "pilaf",
+                "side dish"
+            ]
+        },
+        {
+            "id": "marinated-olives",
+            "title": "Ελιές Μαρινάτες",
+            "originalName": "Ελιές Μαρινάτες",
+            "description": "Greek olives marinated with citrus, herbs, and spices — a classic meze.",
+            "category": "Sauces & Sides",
+            "image": "images/MarinatedOlives.jpg",
+            "prepTime": 10,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Kalamata olives",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "whole green olives",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "100",
+                    "unit": "ml"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "grated orange zest",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "halved garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh rosemary sprigs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh thyme sprigs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "whole coriander seeds",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "crushed red pepper",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "In a jar, combine olives (Kalamata, green, or mixed), olive oil, lemon zest, orange zest, garlic, oregano, and bay leaves.",
+                "Add a splash of red wine vinegar and a pinch of red pepper flakes.",
+                "Seal jar and shake well. Refrigerate for at least 24 hours.",
+                "Bring to room temperature before serving.",
+                "Serve as part of a meze platter with bread and cheese."
+            ],
+            "tags": [
+                "olives",
+                "marinated",
+                "citrus",
+                "herbs",
+                "meze"
+            ]
+        },
+        {
+            "id": "bougatsa",
+            "title": "Μπουγάτσα",
+            "originalName": "Μπουγάτσα",
+            "description": "Sweet semolina custard wrapped in crispy phyllo — a beloved Greek breakfast pastry.",
+            "category": "Desserts",
+            "image": "images/Bougatsa_Custard_Pie.jpg",
+            "prepTime": 25,
+            "cookTime": 35,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole milk",
+                    "quantity": "500",
+                    "unit": "ml"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "80",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": "20",
+                    "unit": "grams"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "grated lemon zest",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "phyllo dough sheets",
+                    "quantity": "8",
+                    "unit": "sheets"
+                },
+                {
+                    "name": "melted butter for phyllo",
+                    "quantity": "80",
+                    "unit": "grams"
+                },
+                {
+                    "name": "powdered sugar for sprinkling",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "ground cinnamon for sprinkling",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Make custard: heat milk with sugar and semolina, stirring constantly until very thick. Remove from heat.",
+                "Beat egg yolks and vanilla. Slowly add to warm custard while whisking. Let cool to room temperature.",
+                "Brush a baking pan with butter. Layer 4 phyllo sheets, brushing each with melted butter.",
+                "Spread custard evenly. Cover with 4 more phyllo sheets, buttering each. Trim edges.",
+                "Bake at 180°C for 35-40 minutes until golden. Dust generously with powdered sugar and cinnamon. Serve warm."
+            ],
+            "tags": [
+                "phyllo",
+                "custard",
+                "semolina",
+                "breakfast",
+                "sweet"
+            ]
+        },
+        {
+            "id": "dakos",
+            "title": "Ντάκος",
+            "originalName": "Ντάκος",
+            "description": "Cretan barley rusk topped with tomatoes, feta, and olive oil — a simple and rustic appetizer.",
+            "category": "Sauces & Sides",
+            "image": "images/Dakos_Cretan_Rusk_Salad.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "barley rusks (paximadi)",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe grated tomatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "ricotta cheese (substitute for mizithra)",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "Kalamata olives",
+                    "quantity": "12",
+                    "unit": ""
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "capers",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Briefly soak barley rusks (paximadia) in water, then drain (they should soften slightly but not dissolve).",
+                "Place rusks on a plate. Grate or chop tomatoes and spread over rusks.",
+                "Top with crumbled feta, capers, and sliced olives.",
+                "Drizzle generously with extra virgin olive oil. Sprinkle with oregano.",
+                "Serve immediately. The rusk should be softened by tomato juices but still have some crunch."
+            ],
+            "tags": [
+                "barley rusk",
+                "tomatoes",
+                "feta",
+                "Cretan",
+                "appetizer"
+            ]
+        },
+        {
+            "id": "gigantes-plaki",
+            "title": "Γίγαντες Πλακί",
+            "originalName": "Γίγαντες Πλακί",
+            "description": "Giant beans baked in rich tomato sauce with herbs — a hearty vegetarian main dish.",
+            "category": "Main Courses",
+            "image": "images/Gigantes_Plaki.jpg",
+            "prepTime": 15,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "giant lima beans (soaked overnight)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "5",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh chopped parsley",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Soak giant beans overnight. Drain, cover with fresh water, and boil 45 minutes until tender but firm. Drain.",
+                "In a baking dish, mix beans with chopped tomatoes, onion, garlic, parsley, olive oil, tomato paste, salt, and pepper.",
+                "Add water to barely cover beans. Bake uncovered at 180°C for 1 hour, stirring occasionally.",
+                "Beans should be creamy and sauce thick. If too dry, add water. If too wet, bake longer.",
+                "Serve warm or at room temperature, drizzled with olive oil and sprinkled with parsley."
+            ],
+            "tags": [
+                "beans",
+                "baked",
+                "tomato sauce",
+                "vegetarian",
+                "hearty"
+            ]
+        },
+        {
+            "id": "giouvetsi",
+            "title": "Γιουβέτσι",
+            "originalName": "Γιουβέτσι",
+            "description": "Beef and orzo baked in tomato sauce — comfort food with a crispy top.",
+            "category": "Main Courses",
+            "image": "images/Giouvetsi_Orzo_Lamb.jpg",
+            "prepTime": 20,
+            "cookTime": 150,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb neck or shoulder cut into pieces",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "rice (or orzo pasta)",
+                    "quantity": "400",
+                    "unit": "grams"
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "chopped onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "dry red wine",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "grated hard cheese",
+                    "quantity": "½",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Brown beef chunks in olive oil. Transfer to a baking dish.",
+                "In the same pan, sauté onion and garlic. Add tomato sauce, wine, cinnamon, bay leaf, salt, and pepper. Simmer 10 minutes.",
+                "Pour sauce over beef. Add water to cover. Cover dish with foil and bake at 160°C for 2 hours.",
+                "Add orzo pasta, stir well, add more water if needed. Bake uncovered 30 minutes until orzo is tender and top is crispy.",
+                "Let rest 10 minutes. Serve hot with grated cheese."
+            ],
+            "tags": [
+                "beef",
+                "orzo",
+                "baked",
+                "tomato sauce",
+                "one-pot"
+            ]
+        },
+        {
+            "id": "horta",
+            "title": "Χόρτα",
+            "originalName": "Χόρτα",
+            "description": "Boiled wild greens with lemon and olive oil — simple, healthy, and traditional.",
+            "category": "Sauces & Sides",
+            "image": "images/Horta_Boiled_Greens.jpg",
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "leafy greens (chard, beet greens, or spinach)",
+                    "quantity": "800",
+                    "unit": "grams"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Clean and rinse greens (dandelion, chicory, or mixed wild greens) thoroughly.",
+                "Boil in salted water for 10-15 minutes until tender. Drain well.",
+                "Arrange on a platter. Drizzle generously with olive oil and fresh lemon juice.",
+                "Season with salt.",
+                "Serve warm or at room temperature as a side dish or meze."
+            ],
+            "tags": [
+                "greens",
+                "boiled",
+                "lemon",
+                "olive oil",
+                "healthy"
+            ]
+        },
+        {
+            "id": "htipiti",
+            "title": "Χτυπητή",
+            "originalName": "Χτυπητή",
+            "description": "Spicy feta and roasted red pepper dip — creamy, zesty, and perfect with pita.",
+            "category": "Sauces & Sides",
+            "image": "images/Htipiti.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "roasted red peppers (from jar)",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "feta cheese",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "Greek yogurt",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "garlic clove",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "red wine vinegar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Roast red peppers until charred. Peel, seed, and chop.",
+                "Blend roasted peppers, crumbled feta, Greek yogurt, olive oil, garlic, and red pepper flakes until smooth.",
+                "Season with lemon juice, salt, and pepper. Adjust spice level to taste.",
+                "Refrigerate 1 hour to let flavors develop.",
+                "Serve cold, drizzled with olive oil and garnished with chopped parsley."
+            ],
+            "tags": [
+                "feta",
+                "roasted peppers",
+                "spicy",
+                "dip",
+                "meze"
+            ]
+        },
+        {
+            "id": "kataifi",
+            "title": "Κανταΐφι",
+            "originalName": "Κανταΐφι",
+            "description": "Shredded phyllo pastry with nuts and honey syrup — a unique and delicious Greek sweet.",
+            "category": "Desserts",
+            "image": "images/Kataifi.jpg",
+            "prepTime": 30,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "kataifi dough (shredded phyllo)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped walnuts",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "chopped almonds",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "ground cloves",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "sugar for syrup",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "water for syrup",
+                    "quantity": "¾",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Mix chopped walnuts, almonds, cinnamon, and sugar.",
+                "Take small handfuls of kataifi dough (shredded phyllo), place nut mixture in center, and roll into logs.",
+                "Arrange rolls in a buttered baking pan. Brush generously with melted butter.",
+                "Bake at 170°C for 40-45 minutes until golden brown.",
+                "Pour cooled syrup (honey, sugar, water, lemon) over hot pastry. Let absorb overnight."
+            ],
+            "tags": [
+                "kataifi",
+                "nuts",
+                "honey",
+                "syrup",
+                "dessert"
+            ]
+        },
+        {
+            "id": "ladolemono",
+            "title": "Λαδολέμονο",
+            "originalName": "Λαδολέμονο",
+            "description": "Classic Greek lemon-olive oil dressing — simple, bright, and versatile.",
+            "category": "Sauces & Sides",
+            "image": "images/Ladolemono.jpg",
+            "prepTime": 5,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "100",
+                    "unit": "ml"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "60",
+                    "unit": "ml"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "crushed garlic clove (optional)",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sea salt",
+                    "quantity": "½",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "freshly ground black pepper",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "In a bowl, whisk together fresh lemon juice, extra virgin olive oil, crushed garlic, salt, and pepper.",
+                "Use a 1:2 ratio of lemon juice to olive oil (adjust to taste).",
+                "Whisk vigorously or shake in a jar until emulsified.",
+                "Taste and adjust seasoning.",
+                "Drizzle over grilled fish, chicken, vegetables, or salads."
+            ],
+            "tags": [
+                "lemon",
+                "olive oil",
+                "dressing",
+                "sauce",
+                "versatile"
+            ]
+        },
+        {
+            "id": "lagana",
+            "title": "Λαγάνα",
+            "originalName": "Λαγάνα",
+            "description": "Flat unleavened bread for Clean Monday — soft, chewy, and traditionally topped with sesame seeds.",
+            "category": "Baked Goods",
+            "image": "images/Lagana_Flatbread.jpg",
+            "prepTime": 90,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "dry yeast",
+                    "quantity": "7",
+                    "unit": "grams"
+                },
+                {
+                    "name": "lukewarm water",
+                    "quantity": "300",
+                    "unit": "ml"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "sesame",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                }
+            ],
+            "instructions": [
+                "Dissolve yeast in warm water with sugar. Mix with flour, salt, and olive oil. Knead 10 minutes.",
+                "Let rise 1 hour until doubled.",
+                "Roll into a large oval or rectangle (about 1cm thick). Place on baking sheet.",
+                "Dimple the surface with fingers. Brush with olive oil and sprinkle with sesame seeds.",
+                "Bake at 200°C for 20-25 minutes until golden. Serve fresh with taramosalata and olives."
+            ],
+            "tags": [
+                "bread",
+                "unleavened",
+                "sesame",
+                "Clean Monday",
+                "traditional"
+            ]
+        },
+        {
+            "id": "lamb-fricassee",
+            "title": "Φρικασέ Αρνί",
+            "originalName": "Φρικασέ Αρνί",
+            "description": "Tender lamb stew with romaine lettuce and egg-lemon sauce — a unique Greek comfort dish.",
+            "category": "Main Courses",
+            "image": "images/Lamb_Fricassee.jpg",
+            "prepTime": 20,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder cut into chunks",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "iceberg lettuce, torn",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "chopped green onions",
+                    "quantity": "6",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "chopped fresh dill",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Brown lamb pieces in olive oil. Add chopped onions and scallions. Cook until soft.",
+                "Add water, dill, salt, and pepper. Simmer 1 hour until lamb is tender.",
+                "Add chopped romaine lettuce. Cook 15 minutes until wilted.",
+                "Beat eggs with lemon juice. Temper with hot broth.",
+                "Remove stew from heat, stir in egg-lemon mixture. Serve immediately with crusty bread."
+            ],
+            "tags": [
+                "lamb",
+                "stew",
+                "egg-lemon",
+                "lettuce",
+                "comfort food"
+            ]
+        },
+        {
+            "id": "spetsofai",
+            "title": "Σπετσοφάι",
+            "originalName": "Σπετσοφάι",
+            "description": "Sausage and pepper stew from Pelion — rustic, spicy, and full of flavor.",
+            "category": "Main Courses",
+            "image": "images/Spetsofai_Sausage_Peppers.jpg",
+            "prepTime": 10,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "Greek village sausages (spicy or sweet)",
+                    "quantity": "500",
+                    "unit": "grams"
+                },
+                {
+                    "name": "assorted bell peppers cut into strips",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed tomatoes",
+                    "quantity": "1",
+                    "unit": "can (400g)"
+                },
+                {
+                    "name": "sliced onion",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "crushed garlic cloves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "hot pepper (optional)",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                },
+                {
+                    "name": "salt and pepper to taste",
+                    "quantity": "",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Slice Greek sausages (loukaniko) and fry until browned. Remove and set aside.",
+                "In the same pan, sauté sliced bell peppers, onions, and garlic in olive oil.",
+                "Add tomatoes, tomato paste, wine, oregano, red pepper flakes, salt, and pepper. Simmer 15 minutes.",
+                "Return sausages to pan. Simmer 10 minutes until sauce thickens.",
+                "Serve hot with crusty bread or over rice."
+            ],
+            "tags": [
+                "sausage",
+                "peppers",
+                "stew",
+                "spicy",
+                "Pelion"
+            ]
+        },
+        {
+            "id": "taramosalata",
+            "title": "Ταραμοσαλάτα",
+            "originalName": "Ταραμοσαλάτα",
+            "description": "Creamy fish roe dip with lemon and olive oil — a sophisticated meze with a beautiful pink color.",
+            "category": "Sauces & Sides",
+            "image": "images/Taramosalata.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "tarama (salted fish roe — pink or white)",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "stale white bread without crust, soaked in water",
+                    "quantity": "4",
+                    "unit": "slices"
+                },
+                {
+                    "name": "extra virgin olive oil",
+                    "quantity": "100",
+                    "unit": "ml"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "4",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "small finely grated onion",
+                    "quantity": "½",
+                    "unit": ""
+                },
+                {
+                    "name": "white pepper",
+                    "quantity": "¼",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "Soak bread slices in water, then squeeze out excess liquid.",
+                "In a food processor, blend tarama (fish roe), soaked bread, and garlic until smooth.",
+                "With processor running, slowly drizzle in olive oil and lemon juice alternately until creamy and emulsified.",
+                "Adjust seasoning with lemon juice. The dip should be light, fluffy, and pale pink.",
+                "Refrigerate 2 hours. Serve cold with warm pita, olives, and cucumber slices."
+            ],
+            "tags": [
+                "fish roe",
+                "dip",
+                "lemon",
+                "olive oil",
+                "meze"
+            ]
+        },
+        {
+            "id": "greek-coffee",
+            "title": "Ελληνικός Καφές",
+            "originalName": "Ελληνικός Καφές",
+            "description": "Traditional Greek coffee brewed in a briki — strong, rich, and aromatic.",
+            "category": "Sauces & Sides",
+            "image": "images/Greek_Coffee.jpg",
+            "prepTime": 2,
+            "cookTime": 5,
+            "servings": 1,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "very finely ground Greek coffee",
+                    "quantity": "2",
+                    "unit": "teaspoons"
+                },
+                {
+                    "name": "cold water",
+                    "quantity": "1",
+                    "unit": "demitasse cup (70ml)"
+                },
+                {
+                    "name": "sugar (to taste)",
+                    "quantity": "1",
+                    "unit": "teaspoon"
+                }
+            ],
+            "instructions": [
+                "For each cup, add 1 demitasse cup of cold water to a briki (small pot).",
+                "Add 1-2 heaping teaspoons of finely ground Greek coffee and sugar to taste (none, medium, or sweet).",
+                "Stir well. Heat slowly over low heat without stirring.",
+                "Watch carefully. As foam rises to the rim, remove from heat immediately.",
+                "Pour into small cups, including the foam (kaimaki). Let grounds settle before drinking. Serve with a glass of cold water."
+            ],
+            "tags": [
+                "coffee",
+                "traditional",
+                "briki",
+                "strong",
+                "Greek style"
+            ]
+        },
+        {
+            "id": "ouzo-meze",
+            "title": "Ούζο Μεζέ",
+            "originalName": "Ούζο Μεζέ",
+            "description": "Ouzo with meze platter — the perfect Greek afternoon ritual.",
+            "category": "Sauces & Sides",
+            "image": "images/Ouzo_Anise_Spirit.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "feta cheese, cubed",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "Kalamata olives",
+                    "quantity": "100",
+                    "unit": "grams"
+                },
+                {
+                    "name": "cucumbers cut into sticks",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "cherry tomatoes",
+                    "quantity": "200",
+                    "unit": "grams"
+                },
+                {
+                    "name": "cooked sliced octopus (optional)",
+                    "quantity": "150",
+                    "unit": "grams"
+                },
+                {
+                    "name": "small fried sardines (optional)",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tablespoons"
+                },
+                {
+                    "name": "dried oregano",
+                    "quantity": "",
+                    "unit": "for sprinkling"
+                },
+                {
+                    "name": "lemon",
+                    "quantity": "1",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Chill ouzo and glasses. Add ice cubes and a splash of cold water to each glass (ouzo will turn cloudy).",
+                "Prepare meze platter: arrange olives, feta cheese, tomato slices, cucumber slices, octopus, grilled sardines, and bread.",
+                "Add small bowls of tzatziki, taramosalata, and melitzanosalata.",
+                "Garnish with lemon wedges and fresh herbs.",
+                "Sip ouzo slowly, enjoy meze, and relax in good company."
+            ],
+            "tags": [
+                "ouzo",
+                "meze",
+                "platter",
+                "social",
+                "Greek tradition"
+            ]
+        }
+    ]
+}
