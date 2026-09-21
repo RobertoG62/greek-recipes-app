@@ -85,8 +85,6 @@ const UI = (() => {
                         alt="${recipe.title}"
                         class="recipe-card-image"
                         loading="lazy"
-                        onload="this.classList.add('loaded')"
-                        onerror="this.style.display='none'"
                     >
                 </div>
                 <div class="p-4">
@@ -105,6 +103,14 @@ const UI = (() => {
                 </div>
             </article>
         `).join('');
+
+        // CSP blocks inline onload/onerror, so the fade-in is wired up here instead.
+        // A cached image can finish loading before the listener attaches — hence the complete check.
+        grid.querySelectorAll('.recipe-card-image').forEach(img => {
+            if (img.complete && img.naturalWidth > 0) { img.classList.add('loaded'); return; }
+            img.addEventListener('load', () => img.classList.add('loaded'));
+            img.addEventListener('error', () => { img.style.display = 'none'; });
+        });
 
         grid.querySelectorAll('.recipe-card').forEach(card => {
             card.addEventListener('click', () => {
