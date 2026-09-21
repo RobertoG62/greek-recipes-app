@@ -102,8 +102,9 @@
         // Reload recipes in new language
         await RecipeData.switchLanguage(lang);
 
-        // Re-render UI
-        renderHome();
+        // Re-render whatever view is open. renderHome() alone left a recipe
+        // that was already on screen showing its previous-language content.
+        handleRoute();
         updateStaticText();
 
         // Update active button state
