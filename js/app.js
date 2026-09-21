@@ -79,10 +79,12 @@
         if (footerTagline) footerTagline.textContent = i18n.t('footer.tagline');
 
         // Update empty state
-        const emptyTitle = document.querySelector('#empty-state p');
+        // The heading is an h3 and the subtitle is the p — selecting 'p' for the
+        // title left the heading in Hebrew and overwrote the subtitle with it.
+        const emptyTitle = document.querySelector('#empty-state h3');
         if (emptyTitle) emptyTitle.textContent = i18n.t('search.noResults');
 
-        const emptySubtitle = document.querySelector('#empty-state .text-sm');
+        const emptySubtitle = document.querySelector('#empty-state p');
         if (emptySubtitle) emptySubtitle.textContent = i18n.t('search.tryAgain');
 
         const clearBtn = document.querySelector('#clear-filters-btn');
