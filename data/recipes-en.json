@@ -2,7 +2,7 @@
     "recipes": [
         {
             "id": "moussaka",
-            "title": "Μουσακάς",
+            "title": "Classic Moussaka",
             "originalName": "Μουσακάς",
             "description": "Iconic layered casserole of eggplants, ground lamb, and creamy béchamel sauce — the flagship dish of Greek cuisine.",
             "category": "Main Courses",
@@ -90,7 +90,7 @@
         },
         {
             "id": "souvlaki",
-            "title": "Σουβλάκι Κοτόπουλο",
+            "title": "Chicken Souvlaki in Pita",
             "originalName": "Σουβλάκι Κοτόπουλο",
             "description": "Juicy chicken skewers marinated in lemon and oregano, served in warm pita with tzatziki and vegetables.",
             "category": "Main Courses",
@@ -157,7 +157,7 @@
         },
         {
             "id": "avgolemono",
-            "title": "Αυγολέμονο",
+            "title": "Avgolemono — Egg and Lemon Soup",
             "originalName": "Αυγολέμονο",
             "description": "Silky chicken soup with egg-lemon sauce — comfort in a bowl, Greek style.",
             "category": "Soups",
@@ -220,7 +220,7 @@
         },
         {
             "id": "spanakopita",
-            "title": "Σπανακόπιτα",
+            "title": "Spanakopita — Spinach and Feta Pie",
             "originalName": "Σπανακόπιτα",
             "description": "Crispy phyllo pie filled with fresh spinach, feta cheese, and aromatic herbs — a classic Greek pastry.",
             "category": "Baked Goods",
@@ -288,7 +288,7 @@
         },
         {
             "id": "baklava",
-            "title": "Μπακλαβάς",
+            "title": "Baklava with Walnuts and Honey",
             "originalName": "Μπακλαβάς",
             "description": "Layers of crispy phyllo, chopped nuts, and honey syrup — the most iconic Greek dessert.",
             "category": "Desserts",
@@ -366,7 +366,7 @@
         },
         {
             "id": "horiatiki",
-            "title": "Χωριάτικη Σαλάτα",
+            "title": "Horiatiki — Greek Village Salad",
             "originalName": "Χωριάτικη Σαλάτα",
             "description": "Authentic village salad with chunky vegetables, olives, and a slab of feta — no lettuce, pure Greek flavors.",
             "category": "Sauces & Sides",
@@ -439,7 +439,7 @@
         },
         {
             "id": "pastitsio",
-            "title": "Παστίτσιο",
+            "title": "Pastitsio",
             "originalName": "Παστίτσιο",
             "description": "Greek pasta bake with layers of tubular pasta, spiced meat sauce, and creamy béchamel — comfort food at its finest.",
             "category": "Main Courses",
@@ -517,7 +517,7 @@
         },
         {
             "id": "fasolada",
-            "title": "Φασολάδα",
+            "title": "Fasolada — White Bean Soup",
             "originalName": "Φασολάδα",
             "description": "Hearty white bean soup with vegetables and herbs — considered the national dish of Greece.",
             "category": "Soups",
@@ -590,7 +590,7 @@
         },
         {
             "id": "tiropita",
-            "title": "Τυρόπιτα",
+            "title": "Tiropita — Greek Cheese Pie",
             "originalName": "Τυρόπιτα",
             "description": "Cheese pie with phyllo and mixed Greek cheeses — a savory breakfast or snack.",
             "category": "Baked Goods",
@@ -653,7 +653,7 @@
         },
         {
             "id": "loukoumades",
-            "title": "Λουκουμάδες",
+            "title": "Loukoumades — Greek Honey Doughnuts",
             "originalName": "Λουκουμάδες",
             "description": "Greek honey puffs — crispy fried dough balls drizzled with honey and sprinkled with cinnamon and nuts.",
             "category": "Desserts",
@@ -726,7 +726,7 @@
         },
         {
             "id": "fakes",
-            "title": "Φακές",
+            "title": "Fakes — Greek Lentil Soup",
             "originalName": "Φακές",
             "description": "Hearty lentil soup with vegetables and vinegar — simple, nutritious, and delicious.",
             "category": "Soups",
@@ -809,7 +809,7 @@
         },
         {
             "id": "kakavia",
-            "title": "Κακαβιά",
+            "title": "Kakavia — Greek Fisherman's Soup",
             "originalName": "Κακαβιά",
             "description": "Traditional Greek fisherman soup with fresh fish, vegetables, and lemon — simple and flavorful.",
             "category": "Soups",
@@ -897,7 +897,7 @@
         },
         {
             "id": "trahanas",
-            "title": "Τραχανάς",
+            "title": "Trahanas — Fermented Grain Soup",
             "originalName": "Τραχανάς",
             "description": "Rustic soup made with fermented wheat and milk granules — a comforting Greek staple.",
             "category": "Soups",
@@ -965,7 +965,7 @@
         },
         {
             "id": "spanakorizo-soup",
-            "title": "Σπανακόρυζο",
+            "title": "Spanakorizo — Spinach and Rice Soup",
             "originalName": "Σπανακόρυζο",
             "description": "Light spinach and rice soup with lemon — healthy and refreshing.",
             "category": "Soups",
@@ -1038,7 +1038,7 @@
         },
         {
             "id": "revithia",
-            "title": "Ρεβιθιά",
+            "title": "Revithia — Greek Chickpea Soup",
             "originalName": "Ρεβιθιά",
             "description": "Slow-baked chickpea soup with lemon and herbs — creamy, tangy, and nutritious.",
             "category": "Soups",
@@ -1106,7 +1106,7 @@
         },
         {
             "id": "cauliflower-lemon-soup",
-            "title": "Κουνουπίδι Σούπα Αυγολέμονο",
+            "title": "Cauliflower Avgolemono Soup",
             "originalName": "Κουνουπίδι Σούπα Αυγολέμονο",
             "description": "Creamy cauliflower soup with egg-lemon sauce — velvety and comforting.",
             "category": "Soups",
@@ -1179,7 +1179,7 @@
         },
         {
             "id": "greek-tomato-soup",
-            "title": "Ντοματόσουπα",
+            "title": "Greek Tomato Soup",
             "originalName": "Ντοματόσουπα",
             "description": "Rich tomato soup with orzo and fresh herbs — hearty and satisfying.",
             "category": "Soups",
@@ -1257,7 +1257,7 @@
         },
         {
             "id": "mushroom-soup",
-            "title": "Μανιταρόσουπα",
+            "title": "Greek Mushroom Soup",
             "originalName": "Μανιταρόσουπα",
             "description": "Creamy mushroom soup with fresh herbs and a hint of lemon — earthy and delicious.",
             "category": "Soups",
@@ -1335,7 +1335,7 @@
         },
         {
             "id": "gyros",
-            "title": "Γύρος",
+            "title": "Gyros",
             "originalName": "Γύρος",
             "description": "Marinated pork or chicken cooked on a vertical rotisserie, served in pita with tzatziki and vegetables.",
             "category": "Main Courses",
@@ -1423,7 +1423,7 @@
         },
         {
             "id": "keftedes",
-            "title": "Κεφτέδες",
+            "title": "Keftedes — Greek Meatballs",
             "originalName": "Κεφτέδες",
             "description": "Herb-packed Greek meatballs with fresh mint and oregano — crispy outside, juicy inside.",
             "category": "Main Courses",
@@ -1506,7 +1506,7 @@
         },
         {
             "id": "kleftiko",
-            "title": "Κλέφτικο",
+            "title": "Kleftiko — Slow-Roasted Lamb",
             "originalName": "Κλέφτικο",
             "description": "Slow-roasted lamb with lemon and herbs, traditionally cooked in parchment — melt-in-your-mouth tender.",
             "category": "Main Courses",
@@ -1589,7 +1589,7 @@
         },
         {
             "id": "stifado",
-            "title": "Στιφάδο",
+            "title": "Stifado — Beef and Pearl Onion Stew",
             "originalName": "Στιφάδο",
             "description": "Rich beef stew with pearl onions, tomatoes, and warm spices — slow-cooked to perfection.",
             "category": "Main Courses",
@@ -1677,7 +1677,7 @@
         },
         {
             "id": "psari-plaki",
-            "title": "Ψάρι Πλακί",
+            "title": "Psari Plaki — Greek Baked Fish",
             "originalName": "Ψάρι Πλακί",
             "description": "Baked fish with tomatoes, onions, and herbs — a simple and healthy Greek classic.",
             "category": "Main Courses",
@@ -1755,7 +1755,7 @@
         },
         {
             "id": "kotopoulo-lemonato",
-            "title": "Κοτόπουλο Λεμονάτο",
+            "title": "Kotopoulo Lemonato — Lemon Chicken with Potatoes",
             "originalName": "Κοτόπουλο Λεμονάτο",
             "description": "Lemon chicken with herbs and potatoes — juicy, tangy, and aromatic.",
             "category": "Main Courses",
@@ -1828,7 +1828,7 @@
         },
         {
             "id": "yemista",
-            "title": "Γεμιστά",
+            "title": "Yemista — Stuffed Tomatoes and Peppers",
             "originalName": "Γεμιστά",
             "description": "Tomatoes and peppers stuffed with herbed rice and baked until tender — a summer classic.",
             "category": "Main Courses",
@@ -1916,7 +1916,7 @@
         },
         {
             "id": "greek-pita",
-            "title": "Πίτα",
+            "title": "Greek Pita Bread",
             "originalName": "Πίτα",
             "description": "Soft, pillowy Greek flatbread perfect for wrapping souvlaki and gyros.",
             "category": "Baked Goods",
@@ -1979,7 +1979,7 @@
         },
         {
             "id": "horiatiko-psomi",
-            "title": "Χωριάτικο Ψωμί",
+            "title": "Horiatiko Psomi — Greek Village Bread",
             "originalName": "Χωριάτικο Ψωμί",
             "description": "Rustic Greek village bread with a crispy crust and soft interior — perfect with olive oil and olives.",
             "category": "Baked Goods",
@@ -2047,7 +2047,7 @@
         },
         {
             "id": "bourekakia",
-            "title": "Μπουρεκάκια",
+            "title": "Bourekakia — Filled Filo Parcels",
             "originalName": "Μπουρεκάκια",
             "description": "Small cheese or meat phyllo rolls — perfect finger food for parties.",
             "category": "Baked Goods",
@@ -2115,7 +2115,7 @@
         },
         {
             "id": "tsoureki",
-            "title": "Τσουρέκι",
+            "title": "Tsoureki — Sweet Easter Bread",
             "originalName": "Τσουρέκι",
             "description": "Sweet braided Easter bread flavored with mahlab and mastic — soft, aromatic, and festive.",
             "category": "Baked Goods",
@@ -2203,7 +2203,7 @@
         },
         {
             "id": "koulouri",
-            "title": "Κουλούρι",
+            "title": "Koulouri — Greek Sesame Rings",
             "originalName": "Κουλούρι",
             "description": "Sesame bread rings — a popular Greek street food breakfast.",
             "category": "Baked Goods",
@@ -2276,7 +2276,7 @@
         },
         {
             "id": "prassopita",
-            "title": "Πρασόπιτα",
+            "title": "Prassopita — Greek Leek Pie",
             "originalName": "Πρασόπιτα",
             "description": "Leek pie with phyllo and feta — a delicious vegetarian option.",
             "category": "Baked Goods",
@@ -2349,7 +2349,7 @@
         },
         {
             "id": "eliopsomo",
-            "title": "Ελιόψωμο",
+            "title": "Eliopsomo — Greek Olive Bread",
             "originalName": "Ελιόψωμο",
             "description": "Olive bread with herbs — rustic, flavorful, and perfect with cheese.",
             "category": "Baked Goods",
@@ -2417,7 +2417,7 @@
         },
         {
             "id": "kaltsounia",
-            "title": "Καλτσούνια",
+            "title": "Kaltsounia — Cretan Cheese Pastries",
             "originalName": "Καλτσούνια",
             "description": "Cretan cheese pastries with honey — sweet or savory, depending on the filling.",
             "category": "Baked Goods",
@@ -2495,7 +2495,7 @@
         },
         {
             "id": "galaktoboureko",
-            "title": "Γαλακτομπούρεκο",
+            "title": "Galaktoboureko — Custard Pie in Filo",
             "originalName": "Γαλακτομπούρεκο",
             "description": "Custard-filled phyllo pastry soaked in honey syrup — a luscious dessert that melts in your mouth.",
             "category": "Desserts",
@@ -2583,7 +2583,7 @@
         },
         {
             "id": "ravani",
-            "title": "Ραβανί",
+            "title": "Ravani — Semolina Syrup Cake",
             "originalName": "Ραβανί",
             "description": "Moist semolina cake soaked in citrus syrup — a simple yet elegant Greek dessert.",
             "category": "Desserts",
@@ -2666,7 +2666,7 @@
         },
         {
             "id": "halva",
-            "title": "Χαλβάς",
+            "title": "Greek Semolina Halva",
             "originalName": "Χαλβάς",
             "description": "Semolina dessert with honey and almonds — simple, comforting, and traditional.",
             "category": "Desserts",
@@ -2739,7 +2739,7 @@
         },
         {
             "id": "kourabiedes",
-            "title": "Κουραμπιέδες",
+            "title": "Kourabiedes — Butter and Almond Cookies",
             "originalName": "Κουραμπιέδες",
             "description": "Buttery almond cookies dusted with powdered sugar — a Christmas tradition.",
             "category": "Desserts",
@@ -2817,7 +2817,7 @@
         },
         {
             "id": "melomakarona",
-            "title": "Μελομακάρονα",
+            "title": "Melomakarona — Honey and Walnut Cookies",
             "originalName": "Μελομακάρονα",
             "description": "Honey-soaked spice cookies with walnuts — a traditional Greek Christmas treat.",
             "category": "Desserts",
@@ -2905,7 +2905,7 @@
         },
         {
             "id": "portokalopita",
-            "title": "Πορτοκαλόπιτα",
+            "title": "Portokalopita — Orange and Filo Cake",
             "originalName": "Πορτοκαλόπιτα",
             "description": "Orange phyllo cake soaked in syrup — shredded phyllo creates a unique, crunchy-soft texture.",
             "category": "Desserts",
@@ -2989,7 +2989,7 @@
         {
             "id": "yogurt-cake",
             "title": "Greek Yogurt Cake",
-            "originalName": "Greek Yogurt Cake",
+            "originalName": "Γιαουρτόπιτα",
             "description": "Light and fluffy yogurt cake — simple, versatile, and delicious.",
             "category": "Desserts",
             "image": "images/YogurtCake.jpg",
@@ -3061,7 +3061,7 @@
         },
         {
             "id": "rizogalo",
-            "title": "Ρυζόγαλο",
+            "title": "Rizogalo — Greek Rice Pudding",
             "originalName": "Ρυζόγαλο",
             "description": "Creamy Greek rice pudding with cinnamon — comfort food at its finest.",
             "category": "Desserts",
@@ -3129,7 +3129,7 @@
         },
         {
             "id": "tzatziki",
-            "title": "Τζατζίκι",
+            "title": "Tzatziki",
             "originalName": "Τζατζίκι",
             "description": "Cool and refreshing yogurt dip with cucumber, garlic, and dill — the perfect accompaniment to any Greek meal.",
             "category": "Sauces & Sides",
@@ -3196,7 +3196,7 @@
         },
         {
             "id": "skordalia",
-            "title": "Σκορδαλιά",
+            "title": "Skordalia — Greek Garlic Dip",
             "originalName": "Σκορδαλιά",
             "description": "Garlic and potato puree with olive oil — a bold and flavorful Greek dip.",
             "category": "Sauces & Sides",
@@ -3264,7 +3264,7 @@
         },
         {
             "id": "tirokafteri",
-            "title": "Τυροκαυτερή",
+            "title": "Tirokafteri — Spicy Feta Dip",
             "originalName": "Τυροκαυτερή",
             "description": "Spicy feta and roasted red pepper dip — creamy, zesty, and perfect with pita.",
             "category": "Sauces & Sides",
@@ -3332,7 +3332,7 @@
         },
         {
             "id": "dolmades",
-            "title": "Ντολμάδες",
+            "title": "Dolmades — Stuffed Vine Leaves",
             "originalName": "Ντολμάδες",
             "description": "Grape leaves stuffed with aromatic rice, pine nuts, and herbs — a traditional meze.",
             "category": "Sauces & Sides",
@@ -3415,7 +3415,7 @@
         },
         {
             "id": "fava",
-            "title": "Φάβα",
+            "title": "Fava — Yellow Split Pea Purée",
             "originalName": "Φάβα",
             "description": "Smooth yellow split pea puree with olive oil and lemon — a velvety vegetarian dip from Santorini.",
             "category": "Sauces & Sides",
@@ -3488,7 +3488,7 @@
         },
         {
             "id": "melitzanosalata",
-            "title": "Μελιτζανοσαλάτα",
+            "title": "Melitzanosalata — Greek Eggplant Dip",
             "originalName": "Μελιτζανοσαλάτα",
             "description": "Smoky roasted eggplant dip with garlic and lemon — simple, flavorful, and addictive.",
             "category": "Sauces & Sides",
@@ -3556,7 +3556,7 @@
         },
         {
             "id": "patates-lemonates",
-            "title": "Πατάτες Λεμονάτες",
+            "title": "Patates Lemonates — Greek Lemon Potatoes",
             "originalName": "Πατάτες Λεμονάτες",
             "description": "Lemon potatoes roasted in olive oil and herbs — crispy outside, tender inside.",
             "category": "Sauces & Sides",
@@ -3624,7 +3624,7 @@
         },
         {
             "id": "dill-rice",
-            "title": "Ρύζι με Άνηθο",
+            "title": "Rice with Dill",
             "originalName": "Ρύζι με Άνηθο",
             "description": "Aromatic rice pilaf with fresh dill and lemon — light and flavorful.",
             "category": "Sauces & Sides",
@@ -3692,7 +3692,7 @@
         },
         {
             "id": "marinated-olives",
-            "title": "Ελιές Μαρινάτες",
+            "title": "Marinated Greek Olives",
             "originalName": "Ελιές Μαρινάτες",
             "description": "Greek olives marinated with citrus, herbs, and spices — a classic meze.",
             "category": "Sauces & Sides",
@@ -3770,7 +3770,7 @@
         },
         {
             "id": "bougatsa",
-            "title": "Μπουγάτσα",
+            "title": "Bougatsa — Semolina Custard Pie",
             "originalName": "Μπουγάτσα",
             "description": "Sweet semolina custard wrapped in crispy phyllo — a beloved Greek breakfast pastry.",
             "category": "Desserts",
@@ -3853,7 +3853,7 @@
         },
         {
             "id": "dakos",
-            "title": "Ντάκος",
+            "title": "Dakos — Cretan Barley Rusk Salad",
             "originalName": "Ντάκος",
             "description": "Cretan barley rusk topped with tomatoes, feta, and olive oil — a simple and rustic appetizer.",
             "category": "Sauces & Sides",
@@ -3921,7 +3921,7 @@
         },
         {
             "id": "gigantes-plaki",
-            "title": "Γίγαντες Πλακί",
+            "title": "Gigantes Plaki — Baked Giant Beans",
             "originalName": "Γίγαντες Πλακί",
             "description": "Giant beans baked in rich tomato sauce with herbs — a hearty vegetarian main dish.",
             "category": "Main Courses",
@@ -3994,7 +3994,7 @@
         },
         {
             "id": "giouvetsi",
-            "title": "Γιουβέτσι",
+            "title": "Giouvetsi — Lamb with Orzo",
             "originalName": "Γιουβέτσι",
             "description": "Beef and orzo baked in tomato sauce — comfort food with a crispy top.",
             "category": "Main Courses",
@@ -4082,7 +4082,7 @@
         },
         {
             "id": "horta",
-            "title": "Χόρτα",
+            "title": "Horta — Boiled Greens with Lemon",
             "originalName": "Χόρτα",
             "description": "Boiled wild greens with lemon and olive oil — simple, healthy, and traditional.",
             "category": "Sauces & Sides",
@@ -4130,7 +4130,7 @@
         },
         {
             "id": "htipiti",
-            "title": "Χτυπητή",
+            "title": "Htipiti — Roasted Pepper and Feta Dip",
             "originalName": "Χτυπητή",
             "description": "Spicy feta and roasted red pepper dip — creamy, zesty, and perfect with pita.",
             "category": "Sauces & Sides",
@@ -4193,7 +4193,7 @@
         },
         {
             "id": "kataifi",
-            "title": "Κανταΐφι",
+            "title": "Kataifi — Shredded Pastry with Nuts and Syrup",
             "originalName": "Κανταΐφι",
             "description": "Shredded phyllo pastry with nuts and honey syrup — a unique and delicious Greek sweet.",
             "category": "Desserts",
@@ -4271,7 +4271,7 @@
         },
         {
             "id": "ladolemono",
-            "title": "Λαδολέμονο",
+            "title": "Ladolemono — Olive Oil and Lemon Dressing",
             "originalName": "Λαδολέμονο",
             "description": "Classic Greek lemon-olive oil dressing — simple, bright, and versatile.",
             "category": "Sauces & Sides",
@@ -4329,7 +4329,7 @@
         },
         {
             "id": "lagana",
-            "title": "Λαγάνα",
+            "title": "Lagana — Greek Lenten Flatbread",
             "originalName": "Λαγάνα",
             "description": "Flat unleavened bread for Clean Monday — soft, chewy, and traditionally topped with sesame seeds.",
             "category": "Baked Goods",
@@ -4392,7 +4392,7 @@
         },
         {
             "id": "lamb-fricassee",
-            "title": "Φρικασέ Αρνί",
+            "title": "Lamb Fricassee with Lettuce and Dill",
             "originalName": "Φρικασέ Αρνί",
             "description": "Tender lamb stew with romaine lettuce and egg-lemon sauce — a unique Greek comfort dish.",
             "category": "Main Courses",
@@ -4465,7 +4465,7 @@
         },
         {
             "id": "spetsofai",
-            "title": "Σπετσοφάι",
+            "title": "Spetsofai — Sausages with Peppers",
             "originalName": "Σπετσοφάι",
             "description": "Sausage and pepper stew from Pelion — rustic, spicy, and full of flavor.",
             "category": "Main Courses",
@@ -4538,7 +4538,7 @@
         },
         {
             "id": "taramosalata",
-            "title": "Ταραμοσαλάτα",
+            "title": "Taramosalata — Greek Fish Roe Dip",
             "originalName": "Ταραμοσαλάτα",
             "description": "Creamy fish roe dip with lemon and olive oil — a sophisticated meze with a beautiful pink color.",
             "category": "Sauces & Sides",
@@ -4596,7 +4596,7 @@
         },
         {
             "id": "greek-coffee",
-            "title": "Ελληνικός Καφές",
+            "title": "Traditional Greek Coffee",
             "originalName": "Ελληνικός Καφές",
             "description": "Traditional Greek coffee brewed in a briki — strong, rich, and aromatic.",
             "category": "Sauces & Sides",
@@ -4639,7 +4639,7 @@
         },
         {
             "id": "ouzo-meze",
-            "title": "Ούζο Μεζέ",
+            "title": "Ouzo — Classic Greek Meze",
             "originalName": "Ούζο Μεζέ",
             "description": "Ouzo with meze platter — the perfect Greek afternoon ritual.",
             "category": "Sauces & Sides",
