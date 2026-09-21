@@ -50,6 +50,15 @@ body {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
+/* The header is transparent over the hero photo until 50px of scroll, so the
+   charcoal wordmark sat on whatever the photo happened to put behind it --
+   measured 1.0-1.7:1 across the sites, against a 4.5:1 bar. White while the
+   header is transparent; the .header-glass panel restores the charcoal. */
+#app-header:not(.header-glass) #header-logo > span:last-child {
+    color: #FFFFFF;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+}
+
 /* --- Home Hero --- */
 .home-hero {
     min-height: 50vh;
