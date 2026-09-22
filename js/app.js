@@ -67,7 +67,7 @@
         // Update hero title
         const heroTitle = document.querySelector('#hero h1');
         if (heroTitle) {
-            heroTitle.innerHTML = `${i18n.t('hero.title')} <span class="text-gr-primary">${i18n.t('hero.titleHighlight')}</span>`;
+            heroTitle.innerHTML = `${i18n.t('hero.title')} <span class="text-gr-primary-light">${i18n.t('hero.titleHighlight')}</span>`;
         }
 
         // Update hero subtitle
